@@ -27,6 +27,11 @@ namespace Etapa1
                         new Curso() {Nombre = "501", Jornada = TiposJornada.Mañana},
                         new Curso{Nombre = "501", Jornada = TiposJornada.Tarde}
             };
+            
+            Curso tmp = new Curso{Nombre = "101-Vacacional", Jornada = TiposJornada.Noche};
+            escuela.Cursos.Add(tmp);
+
+
 
             /*escuela.Cursos.AddRange(otrColeccion);
             ImpimirCursosEscuela(escuela);
@@ -38,6 +43,11 @@ namespace Etapa1
 
             escuela.Cursos.RemoveAll((cur)=> cur.Nombre == "501" && cur.Jornada == TiposJornada.Mañana );
             */
+
+            
+
+             
+
             WriteLine("==================");
             ImpimirCursosEscuela(escuela);
 
