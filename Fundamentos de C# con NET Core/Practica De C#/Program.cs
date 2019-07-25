@@ -28,30 +28,44 @@ namespace Etapa1
                         new Curso{Nombre = "501", Jornada = TiposJornada.Tarde}
             };
             
-            Curso tmp = new Curso{Nombre = "101-Vacacional", Jornada = TiposJornada.Noche};
-            escuela.Cursos.Add(tmp);
-
-
-
-            /*escuela.Cursos.AddRange(otrColeccion);
+ 
+            escuela.Cursos.AddRange(otrColeccion);
             ImpimirCursosEscuela(escuela);
 
+            
             escuela.Cursos.RemoveAll(delegate (Curso cur)
-                                    {
-                                        return cur.Nombre == "301";
-                                    });
+            {
+                return cur.Nombre == "301";
+            });
 
-            escuela.Cursos.RemoveAll((cur)=> cur.Nombre == "501" && cur.Jornada == TiposJornada.Mañana );
-            */
+            //Expresion mas compacta que la de arriba (Expresion Lambda)
+            // Lo que hace esto es lo mismo que arriba, cogemos el curs y lo comparamos con los los que tenemos y si coincide con el parametro
+            //que estamos poniendo .Nombre="501" entonces los borrará.
+            // escuela.Cursos.RemoveAll((Curso cur) => cur.Nombre == "501");
 
+            //Si quisiera solo borrar uno de los dos cursos 501 , ya que hay dos TipoJornada .Mañana y .Tarde , podemos hacer mas grande la condicion
+            escuela.Cursos.RemoveAll((Curso cur) => cur.Nombre == "501" && cur.Jornada == TiposJornada.Mañana);
             
 
-             
+             ///<SUMMARY>  Hemos aprendido a que esto es una manera de documentar el codigo con ayuda de xml </SUMMARY>     
+             ///
+             ///
 
             WriteLine("==================");
             ImpimirCursosEscuela(escuela);
 
         }
+
+        /*
+        En la clase 22 usamos esta funcion para aprender a usar los delegados y predicados con el ejemplo que se muestra en la misma
+        pero en la clase 23 usamos otro tipo de expresiones para usar los delegados, las Expresiones Lambda , por tanto este metodo ya 
+        no es util.
+
+            private static bool Predicado(Curso curs)
+            {
+                return curs.Nombre == "301";
+            } 
+        */
 
         private static void ImpimirCursosEscuela(Escuela escuela)
         {

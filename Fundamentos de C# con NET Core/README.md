@@ -37,9 +37,33 @@ Para Comprender mejor el método .RemoveAll y el parámetro "Predicate" y El "De
 
 ver comentario de [Platzi](https://platzi.com/comentario/436623/) o buscar en Google sobre ello.
 
+---
+- ### Clase 24: *Expresiones lambda y delegados - 10:00 min*
+
+	Una expresión lambda es una función anónima que puedes usar para crear delegados, son bastante útiles pues tu código queda de forma más compacta, pero solamente si esta función se utilizara en un solo lugar.
+
+En C# puedes comentar de distintas formas:
+
+-   Con  `//`  para comentar una sola línea.
+-   Con  `/*`  y  `*/`  para comentar varias líneas.
+-   Con  `///`  para comentar lo que hace un método especifico.
+
+--	En la clase he aprendido adicionalmente a que existe un modo de **documentar** el **codigo** *con el uso de* **`///`** junto con **xml** , es *super interesante* , intuyo que en otros cursos mas enfocados en estos temas lo veré con mas profundidad. Por el momento dejo un [link](https://docs.microsoft.com/es-es/dotnet/csharp/codedoc) de donde pude ver mas acerca de lo mecionado antes.
 
 ---
+## *Resumen de la Etapa 3*
 
+- Limitaciones de los Arrays & Beneficios de las Colecciones.
+- Creacion de Colecciones y su Uso.
+	- Añadir elementos
+	- Borrar Elementos.
+- El Concepto de DELEGADO. (y Predicado )
+- Formas de Representar un Delegado ( Algoritmos, Expresiones Lambda..)
+- Tipos de Datos Bool 
+- Retornar Valores de una función `return`
+- Entre otros.
+
+---
 #### Etapa 4 – Refactorizando y cargando datos de prueba
   
 #### Etapa Final - El gran RETO
