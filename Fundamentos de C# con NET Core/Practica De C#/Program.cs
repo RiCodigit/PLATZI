@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using CoreEscuela.Entidades;
+using CoreEscuela.Util;
 using static System.Console;
 
 namespace CoreEscuela
@@ -12,21 +13,17 @@ namespace CoreEscuela
 
             var engine = new EscuelaEngine();
             engine.Inicializar();
- 
-             ///<SUMMARY>  Hemos aprendido a que esto es una manera de documentar el codigo con ayuda de xml </SUMMARY>     
-             ///
-             ///
-
-            WriteLine("==================");
+            Printer.WriteTitulo("BIENVENIDOS A LA ESCUELA");
+            Printer.Beep(200, 1000, 1);
             ImpimirCursosEscuela(engine.Escuela);
 
         }
 
         private static void ImpimirCursosEscuela(Escuela escuela)
         {
-            WriteLine("====================");
-            WriteLine("Cursos de la Escuela");
-            WriteLine("====================");
+            
+            Printer.WriteTitulo("Cursos de la Escuela");
+
 
             if (escuela?.Cursos != null)
             {

@@ -14,7 +14,7 @@
 #### Etapa 3 – Implementado colecciones para el manejo de cursos:
 
 
--  ### Clase 22: *Implementando colecciones.*
+-  ### Clase 22: *Implementando colecciones.- 12:00 min*
 
 	Vamos a cambiar nuestra implementación del array de cursos por un List de tipo Curso. 
 	
@@ -65,6 +65,30 @@ En C# puedes comentar de distintas formas:
 
 ---
 #### Etapa 4 – Refactorizando y cargando datos de prueba
-  
+  ---
+- ### Clase 25: *Refactorizar a escuela engine - 08:00 min*
+
+	Es importante refactorizar nuestro código para mantenerlo ordenado.
+
+	El constructor de una clase tiene que ser tan rápido como sea posible, tiene que estar desconectado de cualquier cosa que implique entrada y salida.
+	
+	Dejamos el código mejor en esta clase.
+
+
+---
+- ### Clase 26: *Clases estáticas - 15:00 min*
+
+	Una clase estática no permite crear nuevas instancias, la clase por si misma funciona como un objeto.
+	
+Singleton:  solo puedas crear una instancia de una clase, se verifica si no existe una instancia y se crea, pero si ya existe entonces usas la instancia existente.
+
+Para **comentar varias lineas seleccionandolas** `Alt + Shit + A` En VS Code 
+
+- Truco: Para repetir un caracter dandole una variable como dato de repetición, usar 
+`int  tam  =  10`
+**`var linea = "".PadLeft(tam,'=');`** 
+`WriteLine(linea)`
+
+---
 #### Etapa Final - El gran RETO
 
