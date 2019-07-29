@@ -66,7 +66,7 @@ En C# puedes comentar de distintas formas:
 ---
 #### Etapa 4 – Refactorizando y cargando datos de prueba
   ---
-- ### Clase 25: *Refactorizar a escuela engine - 08:00 min*
+- ### Clase 25: *Refactorizar a escuela engine - "08:00 min" -> 15 min*
 
 	Es importante refactorizar nuestro código para mantenerlo ordenado.
 
@@ -76,7 +76,7 @@ En C# puedes comentar de distintas formas:
 
 
 ---
-- ### Clase 26: *Clases estáticas - 15:00 min*
+- ### Clase 26: *Clases estáticas - "15:00 min" -> 45 min*
 
 	Una clase estática no permite crear nuevas instancias, la clase por si misma funciona como un objeto.
 	
@@ -90,5 +90,14 @@ Para **comentar varias lineas seleccionandolas** `Alt + Shit + A` En VS Code
 `WriteLine(linea)`
 
 ---
+
+---
+- ### Clase 27: *Creación de entidades - "09:00 min" -> 15 min*
+
+	Creamos Varias Entidades para el Proyecto CoreEscuela.
+
+
+---
+
 #### Etapa Final - El gran RETO
 
