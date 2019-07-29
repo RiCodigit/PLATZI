@@ -10,6 +10,6 @@ namespace CoreEscuela.Entidades
         public Asignatura Asignatura { get; set; }
         public float Nota { get; set; }
         
-        public Evaluaciones() => UniqueId = Guid.NewGuid().ToString();
+        public Evaluaciones()=> UniqueId = Guid.NewGuid().ToString();
     }
 }

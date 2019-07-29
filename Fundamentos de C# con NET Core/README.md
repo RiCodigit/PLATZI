@@ -99,10 +99,18 @@ Para **comentar varias lineas seleccionandolas** `Alt + Shit + A` En VS Code
 ---
 
 ***Nota Personal***
-Haciendo el commit de esta Clase, me di cuenta de que en el anterior commit había puesto la Clase 25 en vez de la clase 26, y pense que al hacer una `git commit --amend` podría cambiar el nombre del commit y problema resuelto, PERO como hice un `git push` con dicho commit, al hacer un `git push` nuevamente me daba error en el merge, ya que el historial de ambos commit eran diferentes... al final tuve que repasar algunas clases del curso de Git, e hice un `git reset`, hice un commit sencillo ( debería de haber un mejor modo , perooo son las 3 am y mañana trabajo... asi que **Nota( repasar mas Git).**) , y en el siguiente puse el correspondiente commit de la clase 27.
+
+Haciendo el commit de esta Clase, me di cuenta de que en el anterior commit había puesto la Clase 25 en vez de la clase 26, y pense que al hacer un `git commit --amend` podría cambiar el nombre del commit y problema resuelto, PERO como hice un `git push` con dicho commit, al hacer un `git push` nuevamente me daba error en el merge, ya que el historial de ambos commit eran diferentes... al final tuve que repasar algunas clases del curso de Git, e hice un `git reset`, hice un commit sencillo ( debería de haber un mejor modo , perooo son las 3 am y mañana trabajo... asi que **Nota( repasar mas Git).**) , y en el siguiente puse el correspondiente commit de la clase 27.
 
 ---
 ---
+- ### Clase 28: *Generación de datos aleatorios - "14:00 min" -> 30 min*
+
+	Si un método tiene más de 50 líneas significa que está mal diseñado, cada método debe tener una sola responsabilidad. Es por eso por lo que vamos a separar en distintos métodos la carga de datos de nuestro 	proyecto.
+	Hemos Añadido varios métodos los cuales pueden generar datos .
+
+---
+
 
 #### Etapa Final - El gran RETO
 
