@@ -96,7 +96,12 @@ Para **comentar varias lineas seleccionandolas** `Alt + Shit + A` En VS Code
 
 	Creamos Varias Entidades para el Proyecto CoreEscuela.
 
+---
 
+***Nota Personal***
+Haciendo el commit de esta Clase, me di cuenta de que en el anterior commit había puesto la Clase 25 en vez de la clase 26, y pense que al hacer una `git commit --amend` podría cambiar el nombre del commit y problema resuelto, PERO como hice un `git push` con dicho commit, al hacer un `git push` nuevamente me daba error en el merge, ya que el historial de ambos commit eran diferentes... al final tuve que repasar algunas clases del curso de Git, e hice un `git reset`, hice un commit sencillo ( debería de haber un mejor modo , perooo son las 3 am y mañana trabajo... asi que **Nota( repasar mas Git).**) , y en el siguiente puse el correspondiente commit de la clase 27.
+
+---
 ---
 
 #### Etapa Final - El gran RETO
