@@ -110,7 +110,24 @@ Haciendo el commit de esta Clase, me di cuenta de que en el anterior commit hab�
 	Hemos Añadido varios métodos los cuales pueden generar datos .
 
 ---
+- ### Clase 29: *Datos de prueba- "13:00 min" -> 30 min*
 
+	A nuestro método de CargarAlumnos vamos a añadirle la lógica para pasarle un parámetro indicando la cantidad de alumnos que queremos devuelta y para evitar que siempre nos regrese a los mismos alumnos debe generarlos de forma aleatoria.
 
+	La clase Random nos sirve para generar números aleatorios.
+
+---
+## *Resumen de la Etapa 4*
+
+- Que es Refactoring
+- Tipos de datos (double, float)
+- Clases Estáticas.
+- Crear mas Entidades (Alumno, Asignatura, Escuela, Evaluación)
+- La Clase Guid para Generar identificadores únicos.
+- Generación de datos de prueba de forma Random.
+- Crear datos de prueba con Linq.
+- La Clase Random, Generar Números aleatorios.
+
+---
 #### Etapa Final - El gran RETO
 
