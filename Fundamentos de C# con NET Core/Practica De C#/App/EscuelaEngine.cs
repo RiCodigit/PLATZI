@@ -10,11 +10,7 @@ namespace CoreEscuela
     {
         public Escuela Escuela { get; set; }
 
-        public EscuelaEngine()
-        {
-
-        }
-
+        public List<Evaluaciones> Evaluaciones{get; set;}
 
         public void Inicializar()
         {
@@ -31,6 +27,54 @@ namespace CoreEscuela
         private void CargarEvaluaciones()
         {
 
+            List<string> NameEvaluacion = new List<string>(){"Evaluacion1","Evaluacion2","Evaluacion3","Evaluacion4","Evaluacion5"};
+
+            foreach (var curso in Escuela.Cursos)
+            {
+                List<Alumno> listaAlumnos = curso.Alumnos;
+                List<Asignatura> listaAsignatura = curso.Asignaturas;
+
+                var listaEvaluaciones = from listAlum in listaAlumnos
+                                        from listAsig in listaAsignatura
+                                        from nameEva in NameEvaluacion
+                                        select new Evaluaciones{Nombre = nameEva, Alumno = listAlum, Asignatura = listAsig};
+                
+                Evaluaciones = listaEvaluaciones.ToList();
+
+            }
+            
+
+            /*
+            
+            Solucion del profesor:
+
+                foreach (var curso in Escuela.Cursos)
+                {
+                        foreach (var asignatura in curso.Asignaturas)
+                            {
+                                foreach (var alumno in curso.Alumnos)
+                                {
+                                    
+                                    var r = new Random(Environment.TickCount);
+                                    
+                                    for (int i = 0; i < 5; i++)
+                                    {
+                                        
+                                        var Evalu = new Evaluaciones
+                                        {
+                                            Asignatura = asignatura,
+                                            Nombre = $"{asignatura.Nombre} Evaluación#{i + 1}",
+                                            Nota = (float)(5*r.NextDouble()),
+                                            Alumno = alumno
+                                        };
+
+                                        alumno.Evaluaciones.Add(Evalu);
+
+                                    }
+                                }
+                            }
+                }
+             */
         }
 
         private void CargarAsignaturas()
