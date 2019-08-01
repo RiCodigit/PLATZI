@@ -1,4 +1,6 @@
-﻿## Que es el Aprendizaje? | Clase 1
+﻿# 1. Estilos de aprendizaje
+
+## Que es el Aprendizaje? | Clase 1
 
 **Aprender**  es la capacidad de adquirir conocimiento.
 
@@ -106,5 +108,114 @@ Aunque algo de activo tengo, creo que aprendo mas o mejor con mas gente. Sin emb
 -   Crea una opinión fuerte de lo que aprendiste
 -   Ten la oportunidad de que alguien cuestione el conocimiento que adquiriste
 
+
+---
+# 2. Estrategias de aprendizaje individual
+
+## ¿Nacemos o nos volvemos inteligentes? | Clase 7
+
+
+**El aprendizaje individual** es el que se genera únicamente entre el estudiante y el profesor o cualquier otra figura que nos esté enseñando algo. Los 3 elementos importantes son: inteligencia, atención y memoria.
+
+_¿Tú qué dices? ¿Nacemos o nos volvemos inteligentes?_
+
+Según algunos estudios la respuesta es que  **nacemos inteligentes**, la inteligencia es heredada de nuestros ancestros. Pero también puedes volverte inteligente o mejorar tu inteligencia gracias al ambiente que nos rodea y qué tan interesados estamos en volvernos aún más inteligentes.
+
+Entre el 40% y 50% de la inteligencia es heredada pero el otro 50% es determinado por la influencia de lo que nos rodea y nuestra voluntad de aprender algo nuevo todos los días.
+
+
+---
+
+## La atención y lo que no sabías sobre la técnica pomodoro | Clase 8
+
+
+La  **atención**  es un proceso cognitivo que nos permite enfocarnos y concentrarnos en una cosa en específico. Un proceso cognitivo será todo aquel que nos permita procesar información para transmitirla o transformarla en aprendizaje.
+
+No podemos concentrarnos en muchos estímulos al mismo tiempo porque este lleva a una  **sobrecarga cognitiva**. Es por esto que el multitasking es muy mala práctica.
+
+En el tiempo de *pensamiento enfocado* el nivel de atención o concentración es bastante prolongado con un tiempo de hasta 10 horas. Debes estar muy atento a  **qué estás pensando**.
+
+En el tipo de *pensamiento difuso*, la  **técnica pomodoro**  nos puede ayudarnos mucho, ya que debemos concentrarnos por lapsos de tiempo mucho más cortos y, además, nos ayuda a evitar la  **procrastinación**.
+
+---
+
+Procrastinamos porque a la hora de realizar algo que no queremos hacer en el momento, en nuestro cerebro se activa la llamada **Zona Insular**, la cual es la misma que se activa cuando tenemos dolor.
+
+La Técnica Pomodoro, Ayuda a que se mitigue el efecto que se produce , ya que nos convencemos que solo serán 25 min y luego podremos descansar.
+
+Pasos para realizar Correctamente la **Tecnica Pomodoro**:
+-	**Escoge la tarea** o tareas **que vas a realizar.**
+-	Pon Timer en 25 min.
+-	**Enfocate al maximo** esos **25 min**.
+-	Cuando suele el Timer, **Descansa 5 min**.
+-	**Repite** Esto **3 veces mas**( Es decir , se realizan 4 veces los descansos de 5 min)
+-	Despues Descansa **15  - 30 min.**
+-	He inicia desde el Principio (Con la mismo o diferente tarea).
+
+---
+## Aplicando la técnica pomodoro para estudiar en línea efectivamente | Clase 9
+
+
+Estrategias: Si por ejemplo , realizando cursos en Platzi,  cojo clases que en total me sumen los 25 min, lo planeo agrupo y realizo.
+Cuando Terminen los 25, descanso y sigo los pasos normales de la Técnica Pomodoro, haré que de este modo pueda interiorizar mejor las clases. Al estar mas enfocado y dandole tiempo a mi cerebro para que asimile bien la información para crear el conocimiento.
+
+
+
+
+
+# *Contenido Por Realizar*
+~~~~
+
+# 3. Estrategias de aprendizaje en grupo
+
+## Titulo | Clase N
+
+
+Texto 
+
+
+---
+
+Nota: ....
+
+---
+
+# 4. Estrategias de aprendizaje colectivo
+
+## Titulo | Clase N
+
+
+Texto 
+
+
+---
+
+Nota: ....
+
+---
+
+# 5. Recomendaciones de aprendizaje
+
+## Titulo | Clase N
+
+
+Texto 
+
+---
+
+Nota: ....
+
+---
+
+# FINAL  - Examen
+
+## Titulo | Clase N
+
+
+Texto 
+
+---
+
+Nota: ....
 
 ---
