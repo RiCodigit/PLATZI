@@ -450,18 +450,7 @@ Siempre ten a la mano un plan de cursos, un camino que recorrer, puedes obtener 
 -   Tener pasión por el aprendizaje. Nunca parar de aprender.
 
 ---
-# *Contenido Por Realizar*
-~~~~
 
 # FINAL  - Examen
 
-## Titulo | Clase N
-
-
-Texto 
-
----
-
-Nota: ....
-
----
+[https://platzi.com/@RickLondini/curso/1608-aprender/diploma/detalle/](https://platzi.com/@RickLondini/curso/1608-aprender/diploma/detalle/)
