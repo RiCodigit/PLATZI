@@ -229,7 +229,8 @@ Al Tomar notas:
 ## Haciendo apuntes como las Notas de Cornell | Clase 14
 
 
-Las  **Notas de Cornell**  son uno de los métodos más efectivos (y desconocidos) para guardar nuestros apuntes efectivamente, debemos seguir los siguientes lineamientos:
+## Las  **Notas de Cornell**  
+son uno de los métodos más efectivos (y desconocidos) para guardar nuestros apuntes efectivamente, debemos seguir los siguientes lineamientos:
 
 -   **Tema, Título o Materia**: ¿Qué vamos a estudiar? Esto lo vas a escribir en la parte superior de tu libreta o donde guardes tus notas.
 -   **Glosario, Preguntas y Palabras clave**: Esta sección ocupará menos de la mitad del espacio de la primera mitad de tus apuntes. En ella vamos a definir los objetivos o cuestiones que debes resolver con este aprendizaje. Puedes usar el método de correlación mnemotécnico y asignar conceptos familiares para relacionarlos con los nuevos conceptos.
@@ -251,12 +252,13 @@ Las  **Notas de Cornell**  son uno de los métodos más efectivos (y desconocido
 ---
 Ejemplos de Notas de Cornell
 
-![Cornell.PNG](https://static.platzi.com/media/user_upload/Cornell-13238aa7-79fc-46bd-b249-92e5812651fc.jpg)
+[Imagen](https://imgur.com/a/2nRJoSG)
 
 Otros Ejemplos de Notas de Cornell
-![](https://mvcaearthscience.weebly.com/uploads/3/0/8/9/30890725/3785383.png?449.166666)
 
-![Untitled.png](https://static.platzi.com/media/user_upload/Untitled-45f11416-64dc-4129-bb36-7c53c0d82c8d.jpg)
+[Imagen](https://imgur.com/a/lBZTf79)
+
+[Imagen](https://imgur.com/a/463mA4R)
 
 ---
 
@@ -297,56 +299,159 @@ Con la frase anterior acabas de probar lo veloz y poderoso que puede ser tu cere
 
 El último punto es un bonus que quiero darte y es Leer, y leer mucho, a medida que lo hagas constantemente te darás cuenta que tu velocidad aumentará.
 
-
 ---
-
-Nota: ....
-
----
-
-# *Contenido Por Realizar*
-~~~~
 
 # 3. Estrategias de aprendizaje en grupo
 
-## Titulo | Clase N
+## Aprendo cuando estoy acompañado  | Clase 16
 
 
-Texto 
+**Aprender en grupo**  es una gran estrategia de aprendizaje. En principio, porque tienes un motivador personal al estar aprendiendo con otras personas que, además, pueden apoyarte compartiendo su conocimiento. Funcionan como un ancla que nos ayuda a continuar.
+
+**Ventajas**  de estudiar en grupo:
+
+-   Tenemos la oportunidad de aprender de otros
+-   Exponer tus dudas
+-   Compartir tu conocimiento
+-   **_Entre más explicas más aprendes_**
+
+---
+## Profesor por un día | Clase 17
+
+
+Cuando somos  **profesores**  estamos en la posición de explicar algo a otras personas sobre lo que estamos aprendiendo, estudiando e investigando.
+
+-   **Parafrasear**: Nos da la posibilidad de recordar algo y repetirlo usando nuestras propias palabras.
+-   **Cuestionar mi conocimiento**: En ese momento, cuando estamos explicando el tema, también tenemos una reflexión sobre qué tanto aprendimos del tema a explicar.
+-   **Repasar lo aprendido**: Como profesores debemos estudiar y repasar los conceptos para tener los conocimientos al alcance y poderlos explicar.
+-   **Hacer notas extras**: Las notas normales se nos quedan cortas y debemos extenderlas un poco más cuando queremos explicárselo a otras personas.
+
+_Solo puedes explicar algo cuando lo entiendes profundamente._
+
+## *Técnica de Feynman*:
+
+1.  Elige un tema
+2.  Escribe lo aprendido usando paráfrasis y lenguaje sencillo, luego léelo en voz alta.
+3.  Arregla lo que no está bien explicado
+4.  Repasa la información e intenta simplificarlo todavía más.
+
+_**Nuestros alumnos son los que más comparten.**_
 
 
 ---
+Resumen propio Técnica Feynman.
+1. Elige el Tema.
+2. Escribe Sencillo y Leelo en Voz alta.
+3. Depura "el codigo".
+4. Repasa y vuelve a Depurar aun mas.
 
-Nota: ....
+---
+
+## Nuestros mejores estudiantes son los que más comparten: PlatziRank | Clase 18
+
+
+Nuestros mejores estudiantes son los que más comparten, aportan, responden y crean tutoriales. Platzi nos premia por hacerlo:  **PlatziRank**  es una serie de puntos que puedes ir acumulando mientras más participas en la plataforma.
+
+Si quieres publicar en el blog de Platzi escribe a  [team@platzi.com](mailto:team@platzi.com)
+
+-   **Crear un tutorial o blogpost**: 50 puntos.
+-   **Iniciar un aporte**: 5 puntos.
+-   **Responder**: 2 puntos.
+-   **Ver una clase**: 1 punto.
+-   **Recibir un like**: 1 punto.
+-   **Aprobar un examen**: 200 puntos.
+-   **Aprobar un examen de carrera**: 500 puntos.
+
+---
+## Evaluar mi conocimiento | Clase 19
+
+**Evaluar conocimiento**  te da la oportunidad de corroborar lo que aprendiste, evaluar qué tanto has aprendido. Por lo general, lo mejor es que estas evaluaciones sean diseñadas y aplicadas por otra persona diferente a ti.
+
+Las  **evaluaciones**  deben ser diseñadas con ejemplos diversos que te confronten a la resolución de otro tipo de problemas diferentes a lo que aprendiste. Esto también te permitirá complementar tu conocimiento y darte la posibilidad de aprender a aplicarlo en más áreas.
 
 ---
 
 # 4. Estrategias de aprendizaje colectivo
 
-## Titulo | Clase N
+## El diálogo me conduce a la reflexión de mi aprendizaje | Clase 20
 
+Un  **argumento**  es una reflexión, una respuesta construida en base a la razón, defender una postura con el mayor racionamiento posible y así sea aceptado por la otra persona. Debemos comprender el tema y conocer la mayoría de las alternativas.
 
-Texto 
-
+Con estos argumentos lo que queremos es conseguir la aceptación de la otra persona de manera racional. También desarrollamos capacidades lingüísticas, incrementamos en una  **50%**  la adquisición del conocimientos para el día siguiente.
 
 ---
 
-Nota: ....
+**Argumentar:** + 50% probabilidad de adquisición del conocimiento al día siguiente (en vez de un 10%) 
+
+-   Comprender el tema
+    -   Tener super claro el tema
+    -   Iterar nuestro aprendizaje
+    -   Aporte y colaboración
+-   Conocer la mayorías de las alternativas
+    -   Panorama mas amplio de las alternativas de aprendizaje
+    -   Validación de afirmaciones
+-   Defender tu postura con un argumento
+    -   Conseguir la aceptación de la otra persona de manera racional con una estructura lógica
+-   Desarrollo de capacidades lingüísticas
+    -   Conclusiones propias
 
 ---
 
 # 5. Recomendaciones de aprendizaje
 
-## Titulo | Clase N
+## Metacognición para la larga vida del aprendizaje | Clase 21
 
 
-Texto 
+La Metacognición es la capacidad para reflexionar, analizar y criticar lo que estoy pensando.
+
+Desarrollar metacognición es una de las grandes estrategias para aprender efectivamente, ya que involucra un proceso de cuestionamiento sobre los nuevos aprendizajes que estás añadiendo.
+
+El pensamiento reflexivo básicamente nos enseñará a pensar y seleccionar la información que vale la pena ser almacenada y destinada a vivir con el resto de nuestra base de conocimiento. Imagina que es una especie de filtro que aplicas previamente.
+
+Es un proceso que ocurre en todo nuestro proceso de aprendizaje y todos los puntos que hemos tocado en el curso, desde planificar qué se va aprender, controlar el transcurso del aprendizaje y evaluar los logros obtenidos.
+
+Existen algunas estratégias metacognitivas que te ayudarán a hacer más efectivo tu aprendizaje:
+
+-   Trázate un objetivo
+-   Detente a reflexionar sobre el objetivo mientras estás aprendiendo
+-   Al finalizar evalúa tu objetivo
+
+La metacognición siempre estará inquieta por hacerte consciente de lo que estás aprendiendo, para lograr tu reflexión y criticidad del suceso puedes hacerte las siguientes preguntas:
+
+1.  ¿Qué aprendí?
+2.  ¿Cómo lo aprendí?
+3.  ¿Qué fue lo más difícil de aprender?
+4.  ¿Cómo lo logré?
+5.  ¿Qué habilidades mejoré?
+
+Como ves, este tipo de cuestionamientos no solo te hacen filtrar y reflexionar sobre lo que estás percibiendo sino también, te hacen reconocer el proceso de aprendizaje que usaste, esto es muy valioso, pues estás aprendiendo a aprender. Por eso el título de esta lectura es Metacognición para la larga vida del aprendizaje, entre más seas consciente de tus procesos cognitivos y estilos de aprendizaje más sencillo será para tí aprender cualquier cosa.
+
+> “Nunca pares de aprender”
 
 ---
 
 Nota: ....
 
 ---
+
+## Hábitos para un aprendizaje efectivo | Clase 22
+
+
+Siempre ten a la mano un plan de cursos, un camino que recorrer, puedes obtener sugerencias preguntándole a nuestro equipo en  [team@platzi.com](mailto:team@platzi.com)  y con mucho gusto te daremos un  **learning path**.
+
+-   Toma los cursos  **completos**  y  **aprueba**  el examen.
+-   Cumples tus objetivos.
+-   Quita toda distracción. Coloca tu teléfono en modo “No Molestar” 
+-   Ten un lugar para estudiar.
+-   Calendariza tu tiempo de estudio. Como si fueras a la escuela.
+-   Estudia todos los días. Repasar lo aprendido o aprender algo nuevo.
+-   Darse recompensas por cada avance. Una recompensa puede ser desde ver una buena película hasta unas buenas vacaciones.
+-   Descansa y cuida tu vista. Usar gafas o pantallas con filtros.
+-   Tener pasión por el aprendizaje. Nunca parar de aprender.
+
+---
+# *Contenido Por Realizar*
+~~~~
 
 # FINAL  - Examen
 
