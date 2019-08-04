@@ -401,7 +401,6 @@ Con estos argumentos lo que queremos es conseguir la aceptación de la otra pers
 
 ## Metacognición para la larga vida del aprendizaje | Clase 21
 
-Es un proceso que ocurre en todo nuestro proceso de aprendizaje y todos los puntos que hemos tocado en el curso, desde planificar qué se va aprender, controlar el transcurso del aprendizaje y evaluar los logros obtenidos.
 
 La Metacognición es la capacidad para reflexionar, analizar y criticar lo que estoy pensando.
 
@@ -436,25 +435,6 @@ Nota: ....
 ---
 
 ## Hábitos para un aprendizaje efectivo | Clase 22
-
-
-Siempre ten a la mano un plan de cursos, un camino que recorrer, puedes obtener sugerencias preguntándole a nuestro equipo en  [team@platzi.com](mailto:team@platzi.com)  y con mucho gusto te daremos un  **learning path**.
-
--   Toma los cursos  **completos**  y  **aprueba**  el examen.
--   Cumples tus objetivos.
--   Quita toda distracción. Coloca tu teléfono en modo “No Molestar” 
--   Ten un lugar para estudiar.
--   Calendariza tu tiempo de estudio. Como si fueras a la escuela.
--   Estudia todos los días. Repasar lo aprendido o aprender algo nuevo.
--   Darse recompensas por cada avance. Una recompensa puede ser desde ver una buena película hasta unas buenas vacaciones.
--   Descansa y cuida tu vista. Usar gafas o pantallas con filtros.
--   Tener pasión por el aprendizaje. Nunca parar de aprender.
-
----
-# *Contenido Por Realizar*
-~~~~
-
-# FINAL  - Examen
 
 
 Siempre ten a la mano un plan de cursos, un camino que recorrer, puedes obtener sugerencias preguntándole a nuestro equipo en  [team@platzi.com](mailto:team@platzi.com)  y con mucho gusto te daremos un  **learning path**.
