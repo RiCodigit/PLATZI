@@ -24,32 +24,99 @@ Cursos: [Diseño de Interfaces y UX](https://platzi.com/clases/diseno-interfaces
 
 ---
 
-
-# POR VER
-~~~
-
 ## Niveles de Fidelidad | Clase 3
 
-Texto 
+## Prototipos de Baja Fidelidad
 
+Bocetar en papel. Se considera como una prueba de concepto.
 
----
+-   **Pros: **  
+    a) Son rápidos.  
+    b) No tienen costo.  
+    c) Ayudan a llegar a acuerdos.
+    
+-   **Contras:**  
+    a) No son realistas.  
+    b) No son tan detallados.  
+    c) No miden reacciones viscerales.
+    
 
-Nota: ....
+## Prototipos de Mediana Fidelidad
+
+Generalmente ya son hechos en herramientas digitales y se agrega un poco más detalle aunque son en blanco y negro.
+
+ -   **Pros:**  
+    a) Son más cercanos a la realidad del producto.  
+    b) Son flexibles porque aún quedan cosas por definir.  
+    c) La iteración es rápida dado que aún no es para pasar a producción.
+    
+ -   **Contras**  
+    a) Requiere un poco más de tiempo que el papel.  
+    b) Requiere una curva de aprendizaje, ya que se utilizan herramientas digitales.  
+    c) No tiene interacciones, es difícil que los usuarios imaginen las interacciones.
+
+   **Vease:**
+    Que es [Mock Up](https://estudioka.es/que-es-un-mock-up/)
+    
+   **Herramientas para prototipar productos digitales** 
+   - [**parte 1**](https://medium.com/hellomysketch/herramientas-para-prototipar-productos-digitales-parte-1-7eea387f615f)
+   - [**parte 2**](https://medium.com/hellomysketch/herramientas-para-prototipar-productos-digitales-parte-2-f31ba2eb8f00)
+   
+   **Herramientas**
+  - [UXPin](https://www.uxpin.com/) 
+  - [quirktools](http://quirktools.com/wires/)
+  - [mockflow](https://www.mockflow.com/)
+  - [invisionapp](https://www.invisionapp.com/feature/freehand)
+  
+
+Son herramientas con las cuales podemos realizar este tipo de prototipo.
+
+**ICONOS**
+[flaticon](https://www.flaticon.com/)
+[confinder](https://www.iconfinder.com/)
+
+## Prototipos de Alta Fidelidad
+
+Tienen detalles ya precisos del producto final. Se tienen las tipografías, tamaños, paletas de color, jerarquía, iconografía, patrones de diseño, etc.
+
+-   **Pros:**  
+    a) Son fundamentos técnicos del producto.  
+    b) Se pueden probar en diferentes plataformas  
+    c) Son más certero a la realidad
+    
+-   **Contras**  
+    a) La producción es lenta, lleva más tiempo crear un prototipo de esta fidelidad.  
+    b) Pueden inhibir la creatividad  
+    c) No son flexibles, dado que ya está definido todo en ellos.
 
 ---
 
 ## Introducción a Patrones de Diseño | Clase 4
 
+**Notas importantes:**
 
-Texto 
+-   Los  **Patrones de Diseño**  son una serie de soluciones dadas para un problema ya reconocido.
+    
+-   El  **Modelo Mental**  es cuando ya tenemos una pre concepción de cómo son las cosas, las aplicaciones y las interacciones que podemos hacer con los elementos gráficos que tienen.
 
+[Mobile Design Patterns - Pttrns](https://pttrns.com/)
 
 ---
 
-Nota: ....
+Se podría decir también que  la definición de patrón de diseño, envés de soluciones dadas, serían soluciones estándares.
+
+Los Patrones de Diseño son una serie de  **soluciones estándares**  para un  **problema ya reconocido**.
+
+Es muy sencillo, nada más tenemos que copiar las experiencias gráficas de otras herramientas para incluirlas en nuestros productos y así facilitar el desarrollo, la fricción y el diseño.
 
 ---
+blogs temas de UX
+[platzi comentario](https://platzi.com/comentario/402561/)
+
+---
+# POR VER
+~~~
+
 
 ## Introducción a UX Orientado a Objetos | Clase 5
 
