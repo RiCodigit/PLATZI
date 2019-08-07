@@ -114,43 +114,62 @@ blogs temas de UX
 [platzi comentario](https://platzi.com/comentario/402561/)
 
 ---
-# POR VER
-~~~
-
 
 ## Introducción a UX Orientado a Objetos | Clase 5
 
 
-Texto 
+**UX Orientado a Objetos =**  Metodología para estructurar un sistema digital basado en objetos reales.
 
+-   Es una metodología que está alineada a la manera de pensar de los usuarios.
+-   Esta metodología pone en primer plano a los objetos y el contenido antes que a las acciones.
+
+---
+Practica de la clase
+[miro.com](https://miro.com/welcomeonboard/o5vUjhnJZftQ7I6ujRyN8hM7SvAPFQJzym3nrbPhmaxSSYSfHkdMPaORfSLUTKvT)
 
 ---
 
-Nota: ....
 
----
 
 ## Wireframes en Papel (Baja Fidelidad) | Clase 6
 
 
-Texto 
-
-
----
-
-Nota: ....
+Este es el momento en el que hay que dar rienda suelta a la creatividad y comenzar a bocetar en papel lo que va a tener nuestra aplicación.  
+Para este punto ya tiene que haber investigación previa y muy importante, la reunión en equipo para definir todo lo que vamos a agregarle al producto.
 
 ---
 
 ## Wireframes digitales (Mediana Fidelidad) | Clase 7
-Texto 
 
+**Notas importantes:**
+
+-   La importancia de crear diseños y productos que sean compuestos de diferentes componentes, es que nos da una ventaja sobre el diseño tradicional en el que son difíciles de mantener.
+    
+-   En el diseño modular existe un enfoque de diseño para construir interfaces por bloques.
+    
+-   Son fáciles de reparar, modificar, mejorar y mantener.
+    
+-   Los componentes del diseño modular son los fundamentos de las librerías de estilos y componentes compartidos.
 
 ---
 
-Nota: ....
+**Herramientas de prototipado**
+
+[https://www.prototypr.io/prototyping-tools/](https://www.prototypr.io/prototyping-tools/)
+
+Tipos de programas para crear diseños: 
+- [Adobe XD](https://www.adobe.com/es/products/xd/details.html)
+- [Sketch](https://www.sketch.com/) ( tambien con plugin [Anima](https://www.animaapp.com/), ayuda mucho para alinear elementos , paddings, y ser mas responsivos..)
+- [UX Pin](https://www.uxpin.com/)
+- [Figma](https://www.figma.com/)
+- [Adobe Ilustrador.](https://www.adobe.com/es/products/illustrator.html)
+- [Gravit Designer](https://www.designer.io/)
 
 ---
+# POR VER
+~~~
+
+
 
 ## Introducción a Diseño Modular | Clase 8 
 
