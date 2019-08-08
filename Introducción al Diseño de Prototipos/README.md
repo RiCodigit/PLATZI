@@ -166,21 +166,19 @@ Tipos de programas para crear diseños:
 - [Gravit Designer](https://www.designer.io/)
 
 ---
-# POR VER
-~~~
-
-
 
 ## Introducción a Diseño Modular | Clase 8 
 
-Texto 
+El Diseño Modular Consiste en Construir interfaces por bloques. Estos bloques son componentes reusables, repetidos e "independientes" entre si. Los componentes son a menudo fáciles de reparar, modificar, mejorar y mantener.
 
-
----
-
-Nota: ....
+Un diseño modular y los componentes que lo conforman son generalmente van a ser los fundamentos de las librerías de estilos y componentes compartidos.( con el resto de diseñadores, o también los fundamentos de la librerías de Front End que van a estar los desarrolladores usando. 
 
 ---
+
+
+# POR VER
+~~~
+
 
 ## Prototipado de Alta Fidelidad | Clase 9
 
