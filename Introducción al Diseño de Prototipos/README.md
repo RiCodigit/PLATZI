@@ -187,17 +187,21 @@ Reto: 	Estandarizar estilos de:
 
 ---
 
-# POR VER
-~~~
+
+
 ## Construcción de un Prototipo Clickeable | Clase 10
 
 
-Texto 
+Usamos la app [InVision](https://www.invisionapp.com/) para poder conectar todas las pantallas estaticas creadas con anterioridad en Sketch, a traves de hotspot (Para simular una Experiencia de Usuario)
+
+
+
 
 
 ---
 
-Nota: ....
+Comentario/ recomendación:
+Les recomiendo esta herramienta para hacer test con usuarios con prototipos de invision: [https://maze.design/](https://maze.design/)
 
 ---
 
@@ -207,23 +211,120 @@ Nota: ....
 ## Patrones de Diseño o Patrones de Interfaz de Usuario (UI)  | Clase 11
 
 
-Texto 
+Los  **Patrones de Diseño**  o  **Patrones de Interfaz de Usuario**  son soluciones de diseño para resolver problemas comunes en temas de interacción e interfaces de aplicaciones.
+
+Estos patrones cumplen su función basados en una serie de objetivos:
+
+-   **Ser elementos de diseño reusables.**  Nos dan la oportunidad de tener un catálogo amplio de elementos que podemos reusar en nuestros diseños de acuerdo al tipo de problema que estemos intentando resolver.  
+    Es importante mencionar que estos patrones surgieron a partir de investigaciones de otros productos por lo que cuentan ya con la validación de que pueden resolver cierto problema.  
+    Por ejemplo:  _**Menú de hamburguesa**_. Este patrón es reciclable y nos ayuda a solucionar el tema de navegación para que el usuario conozca los rincones de nuestra aplicación.
+    
+-   **Evitar reiteraciones.**  Una vez que existe un problema que va a ser constante en el diseño de una interfaz, tiene todo el sentido crear una solución que se pueda reusar y no repetir el proceso de solución.
+    
+-   **Estandarizar el diseño.**  No propone un estándar en la tendencia del diseño, lo que propone es un estándar en las soluciones de diseño.
+    
+-   **Condensa el conocimiento.**  Permite que nuevos diseños puedan contar con las soluciones estandarizadas para los problemas comunes.
+    
+-   **Ahorro de tiempo**  y mejora en la efectividad de una aplicación. Ayudan a que la interacción y el flujo del usuario en una aplicación sea más amigable y natural.
+    
+
+Los  **Patrones de Diseño**  o de  **Interfaz de Usuario**  se clasifican de la siguiente manera:
+
+-   **Patrones de Interacción:**  Comunicación fluida entre una aplicación y el usuario.
+    
+-   **Patrones de Usabilidad:**  Mejores soluciones para los problemas de uso entre el usuario y una aplicación.
+    
+-   **Patrones Arquitectónicos:**  Interacción de elementos entre niveles de Arquitectura de Información.
+    
+
+Pero, Señor Freddy ¿Esto es copiar?
+
+Usar un patrón de diseño no es copiar, sino utilizar una solución conocida y probada, como ya lo mencionamos antes, a un problema frecuente. Muchos diseñadores de interfaces nos topamos con problemas parecidos en nuestro día a día, y hay quienes ya probaron la eficiencia de ciertas soluciones.
+
+Asimismo, utilizar patrones de diseño nos ayuda a ser consistentes con el mundo exterior. Es dar cuenta que los usuarios de un producto también usan muchos otros y probablemente están acostumbrados a ciertas formas de navegar y encontrar los mismos componentes.
+
+Por último, siempre tener con qué comenzar nos ayuda a la creatividad: no es lo mismo empezar con una hoja en blanco que tener ciertos elementos que ordenan nuestros diseños. Utilizar patrones que ya funcionan en otros productos nos ayudará a organizar mejor la estructura de nuestros diseños.
+
+Tú ¿Qué patrones de diseño identificas que has utilizado y cómo lo has hecho? ¡Cuéntale a la comunidad!
 
 
 ---
 
-Nota: ....
+
+## Wireframes, Prototipos y Mockups: Qué son y cuándo usarlos | [Clase 12](https://platzi.com/clases/1254-prototipado/10294-wireframes-prototipos-y-mockups-que-son-y-cuando-u/)
+
+
+
+Cómo socióloga, cuando empecé a asomar mi cabeza en el maravilloso mundo de UX tuve que salirme del Paint, aprender nociones básicas de diseño web y entender a qué se refieren sus nombres  _fancy_.
+
+**_Cada vez que escuchaba Wireframe, Mockup, Prototipo mi cabeza hacía cortocircuito_.**
+
+_“Pero, ¿entonces? ¿Ese es el que va primero? ¿O el que vamos a probar? ¡Ah, es el que vamos a subir a producción!"_  ????
+
+La realidad es que  **confundir estos términos implica no tener claro el proceso de diseño**. Muchas veces se cree que este proceso está relegado sólo a los diseñadores. Pero lo cierto es que hoy en la creación de software participamos personas de perfiles muy distintos: desarrolladores, investigadores, diseñadores, marketers… y seguimos sumando.
+
+Los Wireframes, Prototipos y Mockups son herramientas que nos ayudan a comunicar los momentos del proceso de diseño. En cada uno de ellos es importante entender qué evaluar y en qué puntos enfocarnos.  **Tener estos puntos en claro nos ayudará a entender el contexto de cada elemento y el tipo de feedback que se espera de nosotros**.
+
+## Wireframe
+
+### ¿Qué es? Una representación de baja fidelidad (lo-fi) de un diseño.
+
+**¿Cuál es su objetivo?**  Comunicar la estructura de la solución de diseño que estamos pensando: ¿Dónde estarán los menús? ¿El logo? ¿Los  _Call To Action_  principales? ¿Qué jerarquía tendrán los distintos grupos de contenido?
+
+Se recomienda que sean en blanco y negro para que el análisis se centre en lo estructural y no en el contenido. Puede que su contenido de copy (texto) e imágenes aún no esté definidos, lo elemental es que se tenga una idea del espacio y jerarquía que ocuparían. Es importante que a la hora de analizar un Wireframe nos enfoquemos en estos aspectos y no en cuestiones secundarias como colores, tipo de contenido, diseño visual de la interfaz.
+
+No se recomienda invertir demasiado tiempo en ellos:  **cuanto más rápido lo hacemos, más rápido nos ponemos de acuerdo sobre qué construir realmente**. Si invertimos demasiado tiempo en ponerle detalle, estaremos gastando tiempo en más en una instancia que aún tiene muchos cambios por experimentar.
+
+![mockups.jpg](https://static.platzi.com/media/user_upload/mockups-15891d6c-5f62-47b8-a3ca-6342176463f0.jpg)
+
+##### Imaginemos que queremos crear una nueva Home de Platzi… así es como empezaríamos.
+
+**¿Cuándo usarlos?**  El momento ideal para usar Wireframes la primer etapa de una tarea. Esta herramienta suele servir para entender limitaciones básicas a nivel diseño. Por ejemplo, a veces pensamos jerarquías de menús que se ven muy bien pero son costosas de construir a nivel desarrollo. En ese caso, el Wireframe ayuda a entender esta limitación, y a pensar alternativas en equipo. Los Wireframes también sirven como documentación de un proyecto, para entender las decisiones previas que fuimos tomando a lo largo de una tarea.
+
+En proyectos que son muy grandes o de rediseños completos, he creado prototipos con Wireframes para testear dichas estructuras. No es lo más común, pero cuando el equipo tiene muchas dudas sobre la Usabilidad o Arquitectura de la Información de determinadas soluciones, es importante recibir feedback de los usuarios en esta instancia.
+
+## Prototipo
+
+### ¿Qué es? Es una representación o simulación de las interacciones que va a tener nuestra solución de diseño.
+
+Pueden hacerse tanto con Wireframes como Mockups. Hay diversas aplicación para probar, la más sencilla y mi favorita es Marvelapp, pero también están Invision, Flinto, Origami y muchísimas más. La cuestión es encontrar una aplicación que se adapte a tus necesidades y tiempos. También cada aplicación o sitio web tiene distintos niveles de interacción: cuanto más compleja, más complejo es el programa que tienes que buscar para emular esa interacción.
+
+También hay muchos diseñadores que saben maquetar estas soluciones y prefieren testear sus propios prototipos: cualquier herramienta es válida, siempre y cuando puedas representar lo más fielmente posible la interacción que buscas para tu diseño.
+
+[![Screenshot_20170630-111444.png](https://static.platzi.com/media/user_upload/Screenshot_20170630-111444-9b0678c8-b62f-4303-96e5-3dae5fd5474f.jpg)](https://marvelapp.com/938c09j)
+
+##### Haz clic en la imagen para probar un sencillo prototipo de la app de Platzi.
+
+**¿Cuál es su objetivo?**  Experimentar, testear y comunicar las interacciones de nuestro diseño.
+
+**¿Cuándo usarlos?**  Usamos prototipos siempre que queramos validar el tipo de interacción que estamos planteando para una solución de diseño. Una vez que tienes el prototipo construido, lo ideal es  **salir a testear y probar esas interacciones con usuarios**. Te sorprenderá encontrar que muchas cosas que pensaste no suceden como esperabas y probablemente tengas que iterar algunas de las interacciones.
+
+Los prototipos también sirven como documentación del proceso. Personalmente, trabajando con clientes directos, los prototipos han sido una herramienta poderosa para comunicar no sólo la interacción sino también el diseño de una aplicación.
+
+> **ProTip para diseñadores independientes**: genera prototipos de tus diseños finales en alta fidelidad e inclúyelos en tu portfolio. Pocas historias hablan tan potentemente de tus habilidades como un prototipo bien armado.
+
+## Mockup
+
+### ¿Qué es? La representación de una solución de diseño en alta fidelidad (hi-fi).
+
+**¿Cuál es su objetivo?**  Comunicar y representar, de manera estática, la estructura, el contenido, las funcionalidades básicas y las decisiones gráficas de una solución de diseño.
+
+![home_nologueado.jpg](https://static.platzi.com/media/user_upload/home_nologueado-0b388456-0d9b-4993-b07a-dee273add54d.jpg)
+
+##### Continuando con el ejemplo del rediseño de la Home de Platzi, así se vería uno de nuestros Mockups.
+
+**¿Cuándo se usa?**  El Mockup se construye una vez que hayamos acordado la estructura de nuestra solución de diseño. Sirve para comunicar las decisiones visuales: los estilos, los colores así como la vista final de la estructura y sus funcionalidades.
+
+En las etapas finales de un diseño hay varias instancias en las que sirve comunicar a través de un mockup:
+
+-   En la fase de testeo y experimentación: ya sea mediante un prototipo o con la imagen estática, sirve para recoger feedback de nuestros usuarios.
+-   Al momento de validar la solución con el resto del equipo.
+-   Cuando tienes que comunicarle la solución al equipo de desarrollo.
+
+Cómo ven, teniendo estos conceptos más claros es fácil definir en cuál necesitamos trabajar de acuerdo al objetivo que tenemos.  **[Sketch](https://platzi.com/cursos/sketch/)**  es mi herramienta favorita a la hora de construir wireframes, prototipos y mockups.  **¿Ya la has probado?**
+
+By [benjibel](https://platzi.com/@benjibel)
 
 ---
-
-## Wireframes, Prototipos y Mockups: Qué son y cuándo usarlos | Clase 12
-
-
-Texto 
-
-
----
-
-Nota: ....
-
----
+# EXAMEN
+##  [DIPLOMA](https://platzi.com/@RickLondini/curso/1254-prototipado/diploma/detalle/)
