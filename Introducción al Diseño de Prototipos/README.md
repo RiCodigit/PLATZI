@@ -176,21 +176,19 @@ Un diseño modular y los componentes que lo conforman son generalmente van a ser
 ---
 
 
-# POR VER
-~~~
-
-
 ## Prototipado de Alta Fidelidad | Clase 9
 
-Texto 
+Creación del prototipo de alta fidelidad.
 
+Reto: 	Estandarizar estilos de:
+1. Catálogo principal.
+2. Vista de un artista.
+3. Vista de un disco.
 
 ---
 
-Nota: ....
-
----
-
+# POR VER
+~~~
 ## Construcción de un Prototipo Clickeable | Clase 10
 
 
