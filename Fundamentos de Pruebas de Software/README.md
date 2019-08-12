@@ -41,6 +41,44 @@ No. El 100% de que un software no tenga errores nunca va a suceder; podrás lleg
 
 ### Clase 3 |  [Proceso de pruebas del software y los estándares internacionales](https://platzi.com/clases/1421-pruebas-software/15093-proceso-de-pruebas-del-software-y-los-estandares-i/ ) | 6:00 min
 
+Exploramos el proceso, las etapas del desarrollo de software y de las pruebas.
+
+Parte del proceso de pruebas es necesario contar con al menos 3 elementos que nos ayudarán a cumplir nuestros objetivos:
+
+-   **Metodología**: Es esta parte donde estableces el criterio o estrategia de cómo se llevaran acabo las pruebas.
+
+-   **Recursos**: Si quieres realizar pruebas y no estás preparado, con el tiempo esas carencias se pueden visualizar como defectos.
+
+-   **Herramientas**: Nos ayudarán a optimizar nuestro trabajo.
+
+
+
+**Calidad del Producto**
+
+- **Producto**: Si estas creando el software correctamente.  
+	- Lo que la gente produce
+		- Requerimientos.
+		- Diseño.
+		- Código.
+		- El Sistema.
+
+- **Proceso**: Si alguien de tu equipo no te especifica lo que quieres no vas a poder crear un producto que cubra las necesidades de tu cliente.
+	- Cómo lo hace la gente 
+		- Estándares.
+		- Procedimientos.
+		- Procesos del Proyecto.
+		
+
+**Certificaciones, estándares y metodologías**
+
+Una empresa para siempre poder proveer de un producto que cumpla las expectativas del cliente se puede enfocar en varias cosas.
+
+• Para individuos  
+• Para procesos  
+• Para empresas  
+• Para servicios/productos = software/hardware  
+• Para tipo de industrias
+
 
 ### Clase 4 | [Proceso de pruebas del software: Calidad y Defectos](https://platzi.com/clases/1421-pruebas-software/15094-proceso-de-pruebas-del-software-calidad-y-defectos/ ) |  10:00 min
 
