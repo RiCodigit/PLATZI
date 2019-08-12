@@ -82,6 +82,27 @@ Una empresa para siempre poder proveer de un producto que cumpla las expectativa
 
 ### Clase 4 | [Proceso de pruebas del software: Calidad y Defectos](https://platzi.com/clases/1421-pruebas-software/15094-proceso-de-pruebas-del-software-calidad-y-defectos/ ) |  10:00 min
 
+¿Qué es la  **calidad**?
+
+La  **calidad**  es una percepción entre lo deseado, analizado y vamos a entregar. La calidad la define el cliente, si esa persona esta satisfecha con lo entregado hasta ahí llega la calidad.
+
+**Proceso de pruebas de Software.**
+
+- **Verificación**: Es ir *en cada etapa* revisando que se cumpla lo propuesto por el cliente.  
+
+- **Validación**: Antes de entregar al cliente, validamos que efectivamente el conjunto de requerimientos esta siendo cumplido con lo entregado.
+
+**Anomalía**: Cualquier insatisfactoria condición  
+**Defecto**: No desempeña funciones  
+**Fallo**: Incapacidad dentro de márgenes  
+**Error**: Acción humana incorrecta
+
+Ya entendimos que es necesario definir un proceso que asegure un buen desarrollo del producto, que los estándares o herramientas implementadas deben ayudar a cubrir las métricas definidas y ya entonces evaluar si el producto tiene el porcentaje o grado de calidad esperado.
+
+> El **error** humano cometido inyecta un **defecto** en el software
+> que, ocasionalmente, se observa como una **anomalía** a causa de un
+> comportamiento incorrecto, no acorde a lo especificado, que finalmente
+> provoca el **fallo** del sistema software.
 
 ### Clase 5 |  [Ciclo de vida del software](https://platzi.com/clases/1421-pruebas-software/15303-ciclo-de-vida-del-software/ ) | 2:00 min
 
