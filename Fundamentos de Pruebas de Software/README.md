@@ -232,12 +232,80 @@ Hay muchas especialidades a la hora de hablar de testing y cada una de ellas tie
 
 ### Clase 8 | [Presupuesto, Recursos, Tiempo y Actividades Clave](https://platzi.com/clases/1421-pruebas-software/15140-presupuesto-recursos-tiempo-y-actividades-clave/ ) | 13:00 min
 
+**Construcción del Software**
+- Presupuesto
+- Recursos 
+- Tiempo
 
+**Actividades Claves de pruebas**
 
+![CICLO DE VIDA SOFTWARE.png](https://static.platzi.com/media/user_upload/CICLO%20DE%20VIDA%20SOFTWARE-2c49e04b-59d5-4b24-8040-aa361397181b.jpg)
+
+- **Etapa de Analisis.**
+	Los documentos que analizamos suelen ser los  documentos de Especificación de los requerimientos del proyecto.
+	 
+	**Ejemplo de un requerimiento:**
+Un usuario puede iniciar sesión en una web.
+**Pruebas:**
+¿Cuantos usuarios pueden iniciar sesión?
+¿Que ocurre si se intenta iniciar sesión pero no se logra?
+¿Que se debería hacer en ese caso?
+¿Que ocurre si no se inicia sesión?
+¿Que debería hacer nuestro programa en ese caso?
+--> Si  se cumple ¿que mensaje mandamos al usuario?
+-->Si **no** se cumple ¿que mensaje mandamos al usuario?
+	
+- **Etapa de Diseño.**
+	En la fase de diseño buscamos establecer los criterios visuales de lo que espera ver el cliente. Entre lo que se describió en los requerimientos y lo que se espera ver.
+	
+	*Continuando con el **ejemplo anterior**.*
+Tenemos un diseño de como es el Login del programa.
+**Pruebas:**
+¿Cuantos Carácteres tiene que tener los campos del login?
+	- 1, 2, 4,10 ,100?
+¿Aceptamos Simbolos o espacios en los campos de texto?
+Si el usuarios pone o no los datos correctos, ¿Le mostramos un mensaje o no?
+¿Hay un limite de intentos para introducir los datos en el login?
+
+- **Etapa de Codificación.**
+Probablemente tendremos Módulos, Funciones, etc...
+Que podemos hacer en esta Etapa?
+
+	Podemos ver por ejemplo todo aquello que conforma la arquitectura de nuestro Software.
+Por lo tanto nuestras Pruebas pueden ir enfocadas a todo aquello que se esta construyendo.
+
+	Cuando estamos en la parte de Codificación, se esta también viendo la parte de requerimientos de la Etapa Analisis. 
+Podemos ir a la BBDD para comprobar y verificar en la asignación de datos los requerimientos del cliente haciendo uso de las funciones que dan los Administradores de BBDD  de Agregar Datos, Eliminarlos, Modificarlos.. etc 
+
+	Es decir podemos comprobar que las herramientas, servicios, programas, etc que vamos a necesitar usar para nuestro software , funcionan correctamente, entre otros.
+
+- **Etapa de Pruebas.**
+Comprobar que todos los componentes realizan sus funciones.
 
 
 
 ### Clase 9 | [Estrategia de pruebas](https://platzi.com/clases/1421-pruebas-software/15097-estrategia-de-pruebas/ ) | 9:00 min
+
+Las estrategias de prueba son aquellas que nos permiten conocer por donde comenzar. Por donde vamos a hacer las pruebas, planearlas, identificarlas. Para saber por donde comenzar podemos hacernos dos preguntas.
+
+-   ¿Qué problemas tenemos actualmente?
+-   ¿Qué problemas debemos evitar?
+
+**Escenarios y Contextos**
+- Seguridad  
+- Arquitectura  
+- Performance  
+- Usabilidad  
+- Escalabilidad
+
+Para realizar las Estrategias :
+Nos preguntamos si lo que queremos es comprobar un problema o evitar uno . Y luego nos preguntamos en que tipo de escenario tenemos que ver esa pregunta. 
+Podemos usar esta herramienta para hacer dicho ejercicio [mindmup.com](https://www.mindmup.com/)
+
+Ejemplo :
+
+Estrategia, suponiendo en problemas que se pueden evitar, tomando el escenario de Usabilidad.  
+![usabilidad.jpg](https://static.platzi.com/media/user_upload/usabilidad-c2838539-b20a-47bc-83fa-9e2c3b8cc630.jpg)
 
 
 
