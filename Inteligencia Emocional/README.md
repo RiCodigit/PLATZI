@@ -24,7 +24,7 @@ Conocerás los fundamentos de la  **IE**  y la aplicarás en tus relaciones prof
 -   La IE en el entorno laboral
 -   Resumen y proyecto
 
-## Test Rápido
+### Test Rápido
 
 Te propongo un test rápido de IE. Puedes responder personalmente en un cuaderno, papel o archivo a las siguientes afirmaciones, diciendo: “sí”, “bastante”, “poco” o “no”:
 
@@ -69,6 +69,7 @@ Version Resumida de la Definicion:
 
 Explica dos casos concretos en los que crees haber usado estrategias de IE y en los que deberías haber usado estrategias de IE.
 
+---
 Situaciones en que:
 
 Use IE:  
@@ -81,7 +82,7 @@ NO Use IE:
 - Al tratar con personas con alcohol en el cuerpo, se me olvida que no están con concientes de mucho de lo que hacen o dicen, y se intentan tratar del mismo modo que si estubiesen sobrios.
 
 - Dejarme influenciar de las emociones negativas de los demás.
-
+---
 
 ### Clase 3 | [El aspecto humano de las organizaciones](https://platzi.com/clases/1614-inteligencia-emocional/20888-el-aspecto-humano-de-las-organizacion-9/) | 7:00 min
 
@@ -97,6 +98,18 @@ Es buena idea establecer un registro personal y profesional con límites. Examin
 
 ¿Cuáles actividades relacionas con tu vida personal y cuáles con tu vida profesional?
 
+---
+Actividad de AutoConocimiento:
+
+| Actividades | Personal | Profesional |
+| -- | -- | -- |
+| Situaciones | Leer, salud (ejercicio, alimetación) | Atender Clientes |
+| Objetivos | Estudiar, Conocer | Bajar Tiempos, mejorar |
+| Actividades | Ver Series/Videos tutoriales, crear  | atención al cliente |
+| Sesaciones | Tranquilidad | Estar Enfocado |
+
+
+---
 
 ### Clase 4 | [Reto: Reflexión sobre inteligencia emocional y vida profesional](https://platzi.com/clases/1614-inteligencia-emocional/20969-reto-reflexion-sobre-inteligencia-emocional-y-vi-3/ ) | 1:00 min
 
