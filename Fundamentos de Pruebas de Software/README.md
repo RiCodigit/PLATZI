@@ -311,12 +311,62 @@ Estrategia, suponiendo en problemas que se pueden evitar, tomando el escenario d
 
 ### Clase 10 | [Testing en desarrollo de software](https://platzi.com/clases/1421-pruebas-software/15098-testing-en-desarrollo-de-software/) | 10:00 min
 
+**Testing**: Es la exploración de una idea, aprender a conocer como sucede el flujo, se generan datos, se llenan formularios. Esto y la exploración de pruebas nunca terminan, siempre hay nuevas formas de conocer como el usuario esta usando el software
+
+**Checking**: Es cuando sabes qué esta pasando y te verificas que siga pasando. Como verificar una maleta antes de viajar para asegurarnos que guardamos todo.
+
+-   Solo se ejecutan si sucede algo
+-   Se ejecutan cada que… libero nuevo código o software.
+-   Se ejecutan de manera programada.
+
+**Errores comunes durante la ejecución**
+
+• Pruebas duplicadas  
+• Pruebas similares  
+• Pruebas sin valor agregado  
+• Pruebas caducadas
+
+Distinguir entre el testing y el checking te lleva hacia la correcta automatización.
+
+**La automatización**  de pruebas consiste en el uso de  **software especial**  para controlar la ejecución de pruebas y la comparación entre los resultados obtenidos y los resultados esperados. Sin embargo, se trata de un  **checking repetitivo y automatizado**.
+
+**Desventajas del checking mal empleado**
+
+• Pobre cobertura de pruebas  
+• Falta de actualización  
+• Mal manejo de versiones
 
 ### Clase 11 | [Testing ágil](https://platzi.com/clases/1421-pruebas-software/15139-testing-agil/) | 8:00 min
 
 
 
+Involucra a todos, no solo en al tester, todos en el equipo son tester. La persona con este rol se asegura de la mayor cobertura de pruebas tomando en cuenta todas las necesidades que cada uno de los miembros del equipo también esta intentando hacer que funcione. El tester tiene que definir si se esta cumpliendo con los requerimientos funciones y los del equipo.
+
+**Estrategias Ágiles**:
+
+-   El testing es de ““todo el equipo””
+-   El testing puede ser inpendiente
+-   Integración continua
+-   Testing guiado por pruebas (Test Driven Development)
+-   Desarrollo guiado por comportamiento (Behaviour Driven Development)
+-   Desarrollo guiado por las pruebas de aceptación (Acceptance Test Driven Development)
+
+
+  
+
+
 ### Clase 12 | [NIveles de pruebas ](https://platzi.com/clases/1421-pruebas-software/15099-niveles-de-pruebas/) | 5:00 min
+
+
+Vamos a ver diferentes estrategias de cómo podemos ir probando elementos por capas. Componentes, estructuras, etc.
+
+**Prueba de Componentes**: Componentes son aquellas cosas pequeñas que sueles ver en un video como el botón de pausa, volumen, adelantar, retroceder. Cada una de esas acciones son un componente.
+
+**Pruebas de integración**: Una aplicación tiene una serie de componentes que trabajando juntos forman un pequeño sistemas, pero cuando tienes varios de estos sistemas necesitas integrarlos entre ellos.
+
+**Prueba de sistema**: Esta parte incluye que estás tomando en cuenta el contexto, no es lo mismo tener las mismas pruebas para iOS, Android y Web.
+
+**Pruebas de aceptación**: Si ya probamos que nuestro elemento o acción funcionan, estás pruebas nos aseguran con o sin el cliente que tiene cubierta todas las necesidades requeridas en el software. Es la última verificación.
 
 
 
@@ -324,32 +374,140 @@ Estrategia, suponiendo en problemas que se pueden evitar, tomando el escenario d
 
 
 
+Necesitamos tener otra clasificación adicional. En los niveles sabemos la profundidad de las pruebas, pero en los tipos independientemente de su profundidad son las técnicas que vamos a usar para encontrar los defectos.
+
+**Pruebas funcionales**: Cómo funciona un sistema, qué debe estar haciendo, cómo está interactuando el usuario con él.
+
+**Pruebas no-funcionales**: El usuario puede estar experimentando otro tipo de cosas que aún funcionando puede tener la sensación de lentitud, falta de legibilidad o claridad. Esas características de usabilidad están asociadas a estas pruebas.
+Pruebas Funcionales y NO Funcionales : **Pruebas de CAJA NEGRA**
+
+**Pruebas estructurales**: Tienen que ver con la tecnología y el  _stack_  usado para construir nuestro producto. Nos tenemos que asegurarnos que nuestra base de datos o servidor funcionen de la manera correcta. Son conocidas como  **Pruebas de CAJA BLANCA**.
+
+**Prueba de manejo de cambios**: Es probar nuevamente un componente ya probado para verificar que no ha sido impactado por actualizaciones.
+
+
+
+
+
 ### Clase 14 | [Pruebas estáticas y dinámicas](https://platzi.com/clases/1421-pruebas-software/15102-pruebas-estaticas-y-dinamicas/ ) | 11:00 min
+
+
+Ya vimos los cuatro diferentes tipos de pruebas, pero estas también se separan en dos formas diferentes de trabajarlas.
+
+
+**Pruebas Estáticas y Dinámicas**
+
+“Las **pruebas dinámicas** se enfocan principalmente en comportamientos externos visibles durante la ejecución del software”.
+
+“Las **pruebas estáticas** se basan en la examinación manual de los elementos que conforman la construcción del software”.
+
+**¿Qué son los elementos?**
+
+- Contratos, planes y calendario del proyecto, así como su presupuesto.  
+- El análisis de requerimientos  
+- Especificaciones o reglas de negocio  
+	- Técnicos  
+	- Seguridad  
+- Las definiciones de  
+	- Historias del usuario  
+	- Criterios de Aceptación  
+	- Mockups  
+- El diseño de la arquitectura  
+- Las pruebas (Tasteware), puntos de verificación CI  
+- Guías de usuario   
+- Evaluación/revisión de código
+
+**Beneficios**
+
+- Detectar y corregir defectos de manera más eficiente  
+- Identificar y priorizar la ejecución de pruebas en etapas posteriores  
+- Prevenir defectos  
+	- Que no son fácilmente detectables durante las pruebas dinámicas  
+	- Durante la etapa de análisis y desarrollo  
+- Cubrir aspectos como:  
+	- Inconsistencias, ambigüedades, contradicciones, definiciones inexactas, requerimientos redundantes  
+- Reducir el retrabajo e incrementar la productividad  
+- Reducir el costo y el tiempo  
+- Mejorando la comunicación entre todos los miembros del equipo
+
+Herramientas: Balsamiq, Draw (mockups), Sketch, Figma (Diseño de interfaces), Slack (comunicación con el equipo), Jira, Trello (Gestión), Confluence (Documentación)
+
+5 herramientas super amigables para poder realizar mockups:  
+Gliffy  
+Cacoo  
+Mockflow  
+Frame Box  
+Wireframe cc
 
 
 
 ### Clase 15 | [Definición y diseño de pruebas ](https://platzi.com/clases/1421-pruebas-software/15101-definicion-y-diseno-de-pruebas/) | 13:00 min
 
 
+Esto es algo básico para cada tester. Hay varias cosas necesarias que debemos comprender y estar seguros de para qué lo hacemos.
+
+Tu obligación y por lo que vas a brillar es porque sabes  **Encontrar Problemas**,  **Documentarlos**  y  **Comunicarlos**. Es crucial documentar, diseñar y nuestros casos de prueba contengan la información necesaria para que se entienda el trabajo.
+
+**¿Qué hace un tester?**
+
+1.  Encontrar problemas  
+    Si no encuentra problemas antes de que el producto sea entregado al cliente, entonces su testing es ineficiente.
+2.  Documentar problemas  
+    Si cuando encuentra problemas no sabe documentar y reproducir los pasos correctos su testing genera retrabajo y sube el costo.
+3.  Comunicar problemas  
+    Si como representante de la calidad del producto no sabe argumentar y proteger los intereses del negocio o los clientes, entonces su testing no agrega valor.
 
 ---
 ## 4. Gestión, monitoreo y control
 
-[](https://platzi.com/clases/1421-pruebas-software/15141-caja-blanca-gris-y-negra/ "Caja Blanca, Gris y Negra")
 
-### Clase 5 | Caja Blanca, Gris y Negra | 12:00 min
 
-[](https://platzi.com/clases/1421-pruebas-software/15104-gestion-monitoreo-y-control-monitoreo-y-seguimient/ "Gestión, monitoreo y control: Monitoreo y Seguimiento")
+### Clase 16 | [Caja Blanca, Gris y Negra](https://platzi.com/clases/1421-pruebas-software/15141-caja-blanca-gris-y-negra/ "") | 12:00 min
 
-### Clase 5 | Gestión, monitoreo y control: Monitoreo y Seguimiento | 8:00 min
+Cuando no estamos refiriendo a una caja es la manera de observar el contenido de software.
 
-[](https://platzi.com/clases/1421-pruebas-software/15103-roles-y-responsabilidades/ "Roles y Responsabilidades ")
+**Caja NEGRA**: No podemos observar cómo fue construida, no vemos el código, no sabemos su arquitectura, no tenemos nociones más que la interfaz que estamos interactuando.
 
-### Clase 5 | Roles y Responsabilidades | 3:00 min
+-  **Participación de Equivalencia.**  Esos grupos de datos que pueden entrar para casos exitosos o para casos no exitosos.
+- **Valores Límite.**  Se puede tener usado un rango de valores.  
+- **Tabla de Decisiones.**  Va enfocada si tuviéramos valores seleccionables.  
+- **Transición de Estados.**  Cómo el componente se comporta.  
+- **Casos de Uso.**  Realizar escenarios que pueda realizar el usuario.
 
-[](https://platzi.com/clases/1421-pruebas-software/15105-roles-y-responsabilidades-en-accion/ "Roles y Responsabilidades en acción")
+**Caja BLANCA**: Es como una caja de cristal, puedo ver todo lo que hay adentro e incluso puedo ser parte del equipo que desarrolla el software.
 
-### Clase 5 | Roles y Responsabilidades en acción | 1:00 min
+- **Cobertura de declaraciones.** Las declaraciones son todo aquello que tienes dentro del código y estás asumiendo que es lo que se pide que haga, al decir cobertura es, dependiendo el tipo de software, los requerimientos, el objetivo, se establece un porcentaje de cobertura, esto significa que, cada línea de código debería ser ejecutada al menos una vez, cada sentencia debería de ejecutarse alguna vez.  
+
+- **Cobertura de código.** Que se evite tener código obsoleto.
+
+**Caja GRIS**: Pueden ser la integraciones, cómo fluye el código y puedo ver como se transmiten los datos a través de las redes.
+
+-  **Casos de Negocio.** Es necesario conocer cómo el usuario interactúa, qué datos ingresa y qué datos van a ser retornados.  
+- **Pruebas End to End.** Cómo se están agregando datos y aún no queremos ver datos de salida.  
+- **Pruebas de integración.** Ver cómo viajan esos datos, la respuesta y la comunicación de cómo fluyen los datos entre diferentes servicios.
+
+
+
+
+
+### Clase 17 | [Gestión, monitoreo y control: Monitoreo y Seguimiento](https://platzi.com/clases/1421-pruebas-software/15104-gestion-monitoreo-y-control-monitoreo-y-seguimient/ "") | 8:00 min
+
+
+
+
+
+
+### Clase 18 | [Roles y Responsabilidades](https://platzi.com/clases/1421-pruebas-software/15103-roles-y-responsabilidades/ " ") | 3:00 min
+
+
+
+
+
+
+### Clase 19| [Roles y Responsabilidades en acción](https://platzi.com/clases/1421-pruebas-software/15105-roles-y-responsabilidades-en-accion/ "") | 1:00 min
+
+
+
 
 
 
