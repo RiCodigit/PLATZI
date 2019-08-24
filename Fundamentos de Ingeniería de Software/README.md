@@ -8,6 +8,41 @@
 ### Clase 1 | [Qué es un system on a chip](https://platzi.com/clases/1098-ingenieria/6552-que-es-un-system-on-a-ch-9/ "") | 8:00 min
 
 
+La arquitectura rápida y compleja en un sistema tradicional podemos hoy tenerlo en un disposivo pequeño gracias a un system on a chip
+
+Un system on a chip es una CPU que también tiene una memoria RAM y un disco duro en un chip.
+
+También incluye chips especializados que permiten realizar algunos procesos necesarios por un dispositivo móvil.
+
+
+
+MicroResumen
+
+-   SoC  (System On A Chip) => Es una combinación de todos los diversos componentes que conforman una computadora real(BIOS, RAM, CPU, Perifericos , Radio, etc.).
+-   Ejemplos de SOAC => Alarmas, Smartwatch, Compas, Acelerómetros etc.
+-   GPU (Graphics Processor Unit) => Chip o dispositivo que se encarga de gestionar la parte gráfica de un SOAC
+-   Raspberry PI => Básicamente es una PC comprimida,se integra de todo lo que necesita para funcionar como tal, a excepción de un HDD(esto es removible).
+
+
+
+System on a chip: es una combinación de los diferentes componentes (
+- BIOS (arranca nuestro sistema), 
+- RAM (es dónde se van a guardar rápidamente los datos de lo que queremos acceder), 
+- CPU (se encarga de procesar todo por dentro), 
+- Radio (es un chip especializado de los teléfonos, que controla todas las señales; la de wi-fi, bluetooth, o en otros casos de señales de celular como 3G ó 4G), 
+- GPU(este se encarga de hacer la representación gráfica de todo el sistema), 
+- Periféricos (este actualmente como el intermedio entre el sistema operativo, los drivers, y el hardware. De tal manera que un smartphone pueda ser expandido) 
+) que hacen de un computador real.  
+
+Pero al ser dispositivos móviles hay cosas que no pueden ir dentro del chip, la principal es la batería. 
+
+La razón numero uno del peso en un teléfono, la batería tiene su propio controlador eléctrico, que es una pequeña CPU, se encarga de manipular como nosotros internamente obtenemos electricidad, este requerirá de ser apagado en caso de una excesiva temperatura, esto no lo controla el sistema interno, sino un procesador especial que es el controlador eléctrico, o CPU de la batería.  
+
+La pantalla es un periférico, que representa todo lo que nosotros hacemos en un sistema embebido (es una pequeña computadora dedicada), esta es un periférico ya que no todos los sistemas embebidos ocupan una.  
+Los periféricos, son pequeñas piezas que no van en el “system on a chip” pero que se conectan a este.
+
+
+
 
 ### Clase 2 | [Cómo funcionan las computadoras y los teléfonos móviles](https://platzi.com/clases/1098-ingenieria/6548-como-funcionan-las-computadoras-y-los-telefonos--8/ "") |  23:00 min
 
