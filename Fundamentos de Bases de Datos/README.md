@@ -69,9 +69,20 @@
 
 ### Clase  12 | [RDB ¿Qué?](https://platzi.com/clases/1566-bd/20205-rdb-que4374/ "")  |  2:00 min
 
+**RDBMS**  significa  **R**elational  **D**atabase  **M**anagement  **S**ystem o sistema manejador de bases de datos relacionales. Es un programa que se encarga de seguir las reglas de  **Codd**  y se puede utilizar de manera programática.
 
 
 ### Clase  13 |  [Instalación local de un RDBMS (Windows)](https://platzi.com/clases/1566-bd/20206-instalacion-local-de-un-rdbms-windows7161/ "") |  13:00 min
+
+Hay dos maneras de acceder a manejadores de bases de datos:
+
+-   Instalar en máquina local un administrador de bases relacional.
+-   Tener ambientes de desarrollo especiales o servicios cloud.
+
+En este curso usaremos  **MySQL**  porque tiene un impacto histórico siendo muy utilizado y además es software libre y gratuito. La versión 5.6.43 es compatible con la mayoría de aplicaciones y frameworks.
+
+-   Root es el usuario principal que tendrá todos los permisos y por lo tanto en ambientes de producción hay que tener  **mucho cuidado**  al configurarlo.
+
 
 
 
@@ -87,30 +98,70 @@
 
 
 
+Conociendo el entorno  gráfico MySLQ Workbench.
+
+En MySLQ :
+
+Pregunta: Cual es la diferencia entre un Schema y una BD, existe algún concepto que las diferencie? vengo de SQL Server y entiendo que son dos ideas distintas.
+
+``depende de la base de datos, por ejemplo en PostgreSQL un schema puede tener db, y estas tener tablas, pero en MySQL un schema es una db y este schema tiene las tablas.``
+
+``La base de datos es una colección de schemas y los schemas son una colección de tablas.``
+
+
+
 ### Clase  17 |  [Servicios administrados](https://platzi.com/clases/1566-bd/20209-servicios-administrados9920/ "") |  12:00 min
 
 
+Hoy en día muchas empresas ya no tienen instalados en sus servidores los **RDBMS** sino que los contratan a otras personas. Estos **servicios administrados**  o también llamados  **cloud** te permiten concentrarte en la base de datos y no en su administración y actualización.
 
+Empresas con Servicios Cloud:
+[AWS Amazon](https://aws.amazon.com/es/)
+ [Google Cloud](https://cloud.google.com/)
+[Azure Microsoft](https://azure.microsoft.com/)
 
-
-
-
+Probamos a usar GCP (Google Cloud Platform)
 
 ## 4. SQL hasta en la sopa
 
 
+### Clase  18 | [Historia de SQL](https://platzi.com/clases/1566-bd/20210-historia-de-sql9440/ "Historia de SQL")  |  3:00 min
 
-[](https://platzi.com/clases/1566-bd/20210-historia-de-sql9440/ "Historia de SQL")
 
-### Clase  18 |   |  3:00 min
 
-[](https://platzi.com/clases/1566-bd/20211-ddl-create8613/ "DDL create")
+**SQL**  significa  **S**tructured  **Q**uery  **L**anguage y tiene una estructura clara y fija. Su objetivo es hacer un solo lenguaje para consultar cualquier manejador de bases de datos volviéndose en un gran estándar.
 
-### Clase  19 |   |  13:00 min
+Ahora existe el  **NOSQL**  o  **N**ot  **O**nly  **S**tructured  **Q**uery  **L**anguage que significa que no sólo se utiliza SQL. Las bases de datos no relacionales.
 
-[](https://platzi.com/clases/1566-bd/20212-ddl-alter0483/ "DDL alter")
 
-### Clase  20 |   |  10:00 min
+
+SQL es un lenguaje de acceso a bases de datos que explota la flexibilidad y potencia de los sistemas relacionales y permite así gran variedad de operaciones.
+
+-   SQL es un estándar aceptado por ANSI (Instituto Nacional Estadounidense de Estándares)
+-   PL/SQL es un lenguaje de programación de la base de datos de Oracle, el nombre viene de Procedural Language/Structured Query Language
+-   T-SQL es un lenguaje de programación de la base de datos de Microsoft SQL Server y el nombre viene de TRANSACT-SQL
+
+
+
+### Clase  19 |  [DDL create](https://platzi.com/clases/1566-bd/20211-ddl-create8613/ "") |  13:00 min
+
+
+**SQL**  tiene dos grandes sublenguajes:  
+**DDL**  o Data Definition Language que nos ayuda a crear la estructura de una base de datos. Existen 3 grandes comandos:
+
+-   Create: Nos ayuda a crear bases de datos, tablas, vistas, índices, etc.
+-   Alter: Ayuda a alterar o modificar entidades.
+-   Drop: Nos ayuda a borrar. Hay que tener cuidado al utilizarlo.
+
+**3 objetos que manipularemos con el lenguaje DDL:**
+
+-   Database o bases de datos
+-   Table o tablas. Son la traducción a SQL de las entidades
+-   View o vistas: Se ofrece la proyección de los datos de la base de datos de forma entendible.
+
+
+
+### Clase  20 | [DDL alter](https://platzi.com/clases/1566-bd/20212-ddl-alter0483/ "")  |  10:00 min
 
 [](https://platzi.com/clases/1566-bd/20213-ddl-drop7001/ "DDL drop")
 
