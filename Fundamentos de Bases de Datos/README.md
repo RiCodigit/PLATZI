@@ -163,17 +163,44 @@ SQL es un lenguaje de acceso a bases de datos que explota la flexibilidad y pote
 
 ### Clase  20 | [DDL alter](https://platzi.com/clases/1566-bd/20212-ddl-alter0483/ "")  |  10:00 min
 
-[](https://platzi.com/clases/1566-bd/20213-ddl-drop7001/ "DDL drop")
+Los _Views_ toman datos de la base de datos, los hacen presentables y los convierten en algo que podamos consultar de manera recurrente.
 
-### Clase  21 |   |  5:00 min
 
-[](https://platzi.com/clases/1566-bd/20214-dml3415/ "DML")
+### Clase  21 |  [DDL drop](https://platzi.com/clases/1566-bd/20213-ddl-drop7001/ "") |  5:00 min
 
-### Clase  22 |   |  17:00 min
 
-[](https://platzi.com/clases/1566-bd/19808-que-tan-estandard-es-sql/ "¿Qué tan estandard es SQL?")
 
-### Clase  23 |   |  10:00 min
+Está puede ser la sentencia _¡más peligrosa!_ `drop`, sobre todo cuando somos principiantes. Básicamente borra o desaparece de nuestra base de datos algún elemento.
+
+    DROP TABLE `platziblog`.`people`;
+	DROP DATABASE `platziblog`;
+
+
+### Clase  22 |  [DML](https://platzi.com/clases/1566-bd/20214-dml3415/ "") |  17:00 min
+
+
+**DML**  trata del contenido de la base de datos. Son las siglas de **D**ata **M**anipulation **L**anguage y sus comandos son:
+
+-   **Insert:**  Inserta o agrega nuevos registros a la tabla.
+
+	` INSERT people (last_name, first_name, adress, city) `
+	`VALUES ('Hernan', 'Laura', 'Calle 21', 'Monterrey');`
+
+-   **Update:**  Actualiza o modifica los datos que ya existen.
+`UPDATE people`
+`SET last_name = 'Sanchez', city = 'Merida'`
+`WHERE person_id = 1;`
+-   **Delete:**  Esta sentencia es riesgosa porque puede borrar el contenido de una tabla.
+`DELETE FROM people `
+`WHERE  person_id = 1;`
+
+
+-   **Select:**  Trae información de la base de datos.
+`SELECT first_name, last_name`
+`FROM people;`
+
+
+### Clase  23 | [¿Qué tan estandard es SQL?](https://platzi.com/clases/1566-bd/19808-que-tan-estandard-es-sql/ "")  |  10:00 min
 
 [](https://platzi.com/clases/1566-bd/19809-creando-platziblog-tablas-independientes/ "Creando Platziblog: tablas independientes")
 
@@ -349,3 +376,4 @@ SQL es un lenguaje de acceso a bases de datos que explota la flexibilidad y pote
 [](https://platzi.com/clases/1566-bd/20160-bases-de-datos-relacionales-vs-no-relacionales5296/ "Bases de datos relacionales vs no relacionales")
 
 ### Clase 57 |   |  4:00 min
+
