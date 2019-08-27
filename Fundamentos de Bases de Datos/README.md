@@ -202,9 +202,13 @@ Está puede ser la sentencia _¡más peligrosa!_ `drop`, sobre todo cuando somos
 
 ### Clase  23 | [¿Qué tan estandard es SQL?](https://platzi.com/clases/1566-bd/19808-que-tan-estandard-es-sql/ "")  |  10:00 min
 
-[](https://platzi.com/clases/1566-bd/19809-creando-platziblog-tablas-independientes/ "Creando Platziblog: tablas independientes")
+La utilidad más grande de **SQL** fue unificar la forma en la que pensamos y hacemos preguntas a un repositorio de datos. Ahora que nacen nuevas bases de datos igualmente siguen tomando elementos de **SQL**.
 
-### Clase 24 |   |  11:00 min
+
+
+
+
+### Clase 24 | [Creando Platziblog: tablas independientes](https://platzi.com/clases/1566-bd/19809-creando-platziblog-tablas-independientes/ "")  |  11:00 min
 
 [](https://platzi.com/clases/1566-bd/19810-creando-platziblog-tablas-dependientes/ "Creando Platziblog: tablas dependientes")
 
