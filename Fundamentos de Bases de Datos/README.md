@@ -223,18 +223,22 @@ Creamos en esta clase , las 3 primeras tablas con el editor visual. en mi caso l
 ### Clase  25 | [Creando Platziblog: tablas dependientes](https://platzi.com/clases/1566-bd/19810-creando-platziblog-tablas-dependientes/ "")  |  11:00 min
 
 
+-   El comando “cascade” sirve para que cada que se haga un update en la tabla principal, se refleje también en la tabla en la que estamos creando la relación.
 
-
-
+Creamos las tablas dependientes, en esta clase vemos como crear la tabla de posts y sus llaves foraneas.
 
 
 ### Clase  26 | [Creando Platziblog: tablas transitivas](https://platzi.com/clases/1566-bd/19811-creando-platziblog-tablas-transistivas/ "")  |  9:00 min
 
+-   Las tablas transitivas sirven como puente para unir dos tablas. No tienen contenido semántico.
+-   **Reverse Engineer**  nos reproduce el esquema del cual nos basamos para crear nuestras tablas. Es útil cuando llegas a un nuevo trabajo y quieres entender cuál fue la mentalidad que tuvieron al momento de crear las bases de datos.
 
 
+Para crear diagramas parecidos a los que hace el profesor : utilizar Navicat Premium
 
+Creamos las últimas tablas, la ultimas es la tabla Transitiva.
 
-
+ 
 
 ## 5.Consultas a una base de datos
 
