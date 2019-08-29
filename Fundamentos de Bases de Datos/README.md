@@ -210,13 +210,25 @@ La utilidad más grande de **SQL** fue unificar la forma en la que pensamos y ha
 
 ### Clase 24 | [Creando Platziblog: tablas independientes](https://platzi.com/clases/1566-bd/19809-creando-platziblog-tablas-independientes/ "")  |  11:00 min
 
-[](https://platzi.com/clases/1566-bd/19810-creando-platziblog-tablas-dependientes/ "Creando Platziblog: tablas dependientes")
+-   Una buena práctica es comenzar creando las entidades que no tienen una llave foránea.
+-   Generalmente en los nombres de bases de datos se evita usar eñes o acentos para evitar problemas en los manejadores de las bases de datos.
 
-### Clase  25 |   |  11:00 min
 
-[](https://platzi.com/clases/1566-bd/19811-creando-platziblog-tablas-transistivas/ "Creando Platziblog: tablas transitivas")
+Creamos en esta clase , las 3 primeras tablas con el editor visual. en mi caso lo hago con el codigo, gurado todo en el archivo SQL Apuntes.
 
-### Clase  26 |   |  9:00 min
+
+
+
+
+### Clase  25 | [Creando Platziblog: tablas dependientes](https://platzi.com/clases/1566-bd/19810-creando-platziblog-tablas-dependientes/ "")  |  11:00 min
+
+
+
+
+
+
+
+### Clase  26 | [Creando Platziblog: tablas transitivas](https://platzi.com/clases/1566-bd/19811-creando-platziblog-tablas-transistivas/ "")  |  9:00 min
 
 
 

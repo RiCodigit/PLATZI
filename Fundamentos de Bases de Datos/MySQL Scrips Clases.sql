@@ -42,3 +42,27 @@ SELECT first_name, last_name
 FROM people1;
 
 DROP TABLE people1;
+
+/*
+	Clase 24: ¿SQL ESTANDARD?
+*/
+CREATE SCHEMA platziblog;
+
+CREATE TABLE `platziblog`.`categorias` (
+`id` INT NOT NULL AUTO_INCREMENT,
+`nombre_categoria` VARCHAR(30) NOT NULL,
+PRIMARY KEY (`id`));
+
+CREATE TABLE `platziblog`.`etiquetas` (
+`id` INT NOT NULL AUTO_INCREMENT,
+`nombre_etiquetas` VARCHAR(30) NOT NULL,
+PRIMARY KEY (`id`));
+
+CREATE TABLE `platziblog`.`usuarios` (
+`id` INT NOT NULL AUTO_INCREMENT,
+`login` VARCHAR(30) NOT NULL,
+`password` VARCHAR(32) NOT NULL,
+`nickname` VARCHAR(40) NOT NULL,
+`email` VARCHAR(40) NOT NULL,
+PRIMARY KEY (`id`),
+UNIQUE INDEX `email_UNIQUE` (`email` ASC));
