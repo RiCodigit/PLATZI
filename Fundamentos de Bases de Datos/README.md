@@ -244,56 +244,66 @@ Creamos las últimas tablas, la ultimas es la tabla Transitiva.
 
 
 
-[](https://platzi.com/clases/1566-bd/19812-por-que-las-consultas-son-tan-importantes/ "¿Por qué las consultas son tan importantes?")
+### Clase  27 |  [¿Por qué las consultas son tan importantes?](https://platzi.com/clases/1566-bd/19812-por-que-las-consultas-son-tan-importantes/ "") |  2:00 min
 
-### Clase  27 |   |  2:00 min
 
-[](https://platzi.com/clases/1566-bd/19817-estructura-basica-de-un-query/ "Estructura básica de un Query")
 
-### Clase  28 |   |  6:00 min
+Las consultas o queries a una base de datos son una parte fundamental ya que esto podría salvar un negocio o empresa.  
+Alrededor de las consultas a las bases de datos se han creado varias especialidades como **ETL** o transformación de datos, **business intelligence** e incluso **machine learning**.
 
-[](https://platzi.com/clases/1566-bd/19818-select/ "SELECT")
 
-### Clase  29 |   |  11:00 min
 
-[](https://platzi.com/clases/1566-bd/19819-from/ "FROM")
+### Clase  28 | [Estructura básica de un Query](https://platzi.com/clases/1566-bd/19817-estructura-basica-de-un-query/ "")  |  6:00 min
 
-### Clase  30 |   |  7:00 min
 
-[](https://platzi.com/clases/1566-bd/19820-utilizando-la-sentencia-from/ "Utilizando la sentencia FROM")
+Los queries son la forma en la que estructuramos las preguntas que se harán a la base de datos. Transforma preguntas en sintaxis.
 
-### Clase  31 |   |  14:00 min
+El query tiene básicamente 2 partes:  **SELECT**  y  **FROM**  y puede aparecer una tercera como  **WHERE**.
 
-[](https://platzi.com/clases/1566-bd/19821-where/ "WHERE")
-### Clase  32 |   |  14:00 min
+-   La estrellita o asterisco (*) quiere decir que vamos a seleccionar todo sin filtrar campos.
 
-[](https://platzi.com/clases/1566-bd/19822-utilizando-la-sentencia-where-nulo-y-no-nulo/ "Utilizando la sentencia WHERE nulo y no nulo")
 
-### Clase  33 |   |  10:00 min
 
-[](https://platzi.com/clases/1566-bd/19823-group-by/ "GROUP BY")
 
-### Clase  34 |   |  11:00 min
+### Clase  29 | [SELECT](https://platzi.com/clases/1566-bd/19818-select/ "")  |  11:00 min
 
-[](https://platzi.com/clases/1566-bd/19824-order-by-y-having/ "ORDER BY y HAVING")
 
-### Clase  35 |   |  13:00 min
 
-[](https://platzi.com/clases/1566-bd/19825-el-interminable-agujero-de-conejo-nested-queries/ "El interminable agujero de conejo (Nested queries)")
+### Clase  30 | [FROM](https://platzi.com/clases/1566-bd/19819-from/ "")  |  7:00 min
 
-### Clase   36 |   |  12:00 min
 
-[](https://platzi.com/clases/1566-bd/19826-como-convertir-una-pregunta-en-un-query-sql/ "¿Cómo convertir una pregunta en un query SQL?")
 
-### Clase  37 |   |  6:00 min
+### Clase  31 |  [Utilizando la sentencia FROM](https://platzi.com/clases/1566-bd/19820-utilizando-la-sentencia-from/ ) |  14:00 min
 
-[](https://platzi.com/clases/1566-bd/19827-preguntandole-a-la-base-de-datos/ "Preguntándole a la base de datos")
 
-### Clase   38  |   |  10:00 min
+### Clase  32 | [WHERE](https://platzi.com/clases/1566-bd/19821-where/ "")  |  14:00 min
 
-[](https://platzi.com/clases/1566-bd/19872-consultando-platziblog/ "Consultando PlatziBlog")
 
-### Clase  39 |   |  12:00 min
+
+### Clase  33 |  [Utilizando la sentencia WHERE nulo y no nulo](https://platzi.com/clases/1566-bd/19822-utilizando-la-sentencia-where-nulo-y-no-nulo/ "") |  10:00 min
+
+
+
+### Clase  34 | [GROUP BY](https://platzi.com/clases/1566-bd/19823-group-by/ "")  |  11:00 min
+
+
+
+### Clase  35 | [ORDER BY y HAVING](https://platzi.com/clases/1566-bd/19824-order-by-y-having/ "")  |  13:00 min
+
+
+
+### Clase   36 | [El interminable agujero de conejo (Nested queries)](https://platzi.com/clases/1566-bd/19825-el-interminable-agujero-de-conejo-nested-queries/ )  |  12:00 min
+
+
+
+### Clase  37 |  [¿Cómo convertir una pregunta en un query SQL?](https://platzi.com/clases/1566-bd/19826-como-convertir-una-pregunta-en-un-query-sql/ "") |  6:00 min
+
+
+
+### Clase   38  | [Preguntándole a la base de datos](https://platzi.com/clases/1566-bd/19827-preguntandole-a-la-base-de-datos/ "")  |  10:00 min
+
+
+### Clase  39 |  [Consultando PlatziBlog](https://platzi.com/clases/1566-bd/19872-consultando-platziblog/ "") |  12:00 min
 
 
 
