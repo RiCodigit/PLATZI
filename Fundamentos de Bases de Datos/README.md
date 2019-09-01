@@ -269,6 +269,26 @@ El query tiene básicamente 2 partes:  **SELECT**  y  **FROM**  y puede aparecer
 
 
 
+**SELECT**  se encarga de proyectar o mostrar datos.
+
+-   El nombre de las columnas o campos que estamos consultando puede ser cambiado utilizando  **AS** después del nombre del campo y poniendo el nuevo que queremos tener:
+
+```
+SELECT titulo AS encabezado
+FROM posts;
+
+```
+
+-   Existe una función de SELECT para poder contar la cantidad de registros. Esa información (un número) será el resultado del query:
+
+```
+SELECT COUNT(*)
+FROM posts;
+```
+
+
+
+
 ### Clase  30 | [FROM](https://platzi.com/clases/1566-bd/19819-from/ "")  |  7:00 min
 
 
