@@ -292,6 +292,14 @@ FROM posts;
 ### Clase  30 | [FROM](https://platzi.com/clases/1566-bd/19819-from/ "")  |  7:00 min
 
 
+**FROM**  indica de dónde se deben traer los datos y puede ayudar a hacer sentencias y filtros complejos cuando se quieren unir tablas. La sentencia compañera que nos ayuda con este proceso es  **JOIN**.
+
+Los diagramas de Venn son círculos que se tocan en algún punto para ver dónde está la intersección de conjuntos. Ayudan mucho para poder formular la sentencia  **JOIN**  de la manera adecuada dependiendo del query que se quiere hacer.
+
+
+![](https://ingenieriadesoftware.es/wp-content/uploads/2018/07/sqljoin.jpeg)
+
+
 
 ### Clase  31 |  [Utilizando la sentencia FROM](https://platzi.com/clases/1566-bd/19820-utilizando-la-sentencia-from/ ) |  14:00 min
 

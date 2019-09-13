@@ -558,8 +558,26 @@ FROM posts;
 
 
 
+/*
 
+Clase 30 : FROM
 
+*/
 
+-- Sentencia JOIN  (veáse las teoría de conjuntos)
+-- la sentencia join es imprestindible para usar al maximo la sentencia FROM.
+-- usada para "unir" dos tablas, ej: juntar los datos de dos tablas, con sus respecticas clase ( primary key y llave foranea)
+
+/*
+Tipos de JOINS:
+
+de Diferencia
+	LEFT  
+	RIGHT  
+de Intersección
+	INNER JOIN
+    OUTER JOIN
+
+*/	
 
 
