@@ -301,7 +301,14 @@ Los diagramas de Venn son círculos que se tocan en algún punto para ver dónde
 
 
 
+
+
 ### Clase  31 |  [Utilizando la sentencia FROM](https://platzi.com/clases/1566-bd/19820-utilizando-la-sentencia-from/ ) |  14:00 min
+
+
+Ejercicio Extra Propio:
+https://imgur.com/a/TwLRWqL
+
 
 
 ### Clase  32 | [WHERE](https://platzi.com/clases/1566-bd/19821-where/ "")  |  14:00 min

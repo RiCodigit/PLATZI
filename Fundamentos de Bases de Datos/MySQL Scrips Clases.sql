@@ -574,10 +574,95 @@ Tipos de JOINS:
 de Diferencia
 	LEFT  
 	RIGHT  
-de Intersección
+de Intersección, Unión y Diferencia simétrica
 	INNER JOIN
     OUTER JOIN
 
 */	
 
 
+
+/*
+
+Clase 31 : Utilizando la sentencia FROM
+
+*/
+
+
+/*
+Ejercicios de
+Tipos de JOINS:
+
+de Diferencia
+	LEFT  
+	RIGHT  
+
+*/
+
+-- 1º EJ / Muestrame todos los user  tengan o no posts
+SELECT *
+FROM usuarios
+LEFT JOIN posts on usuarios.id = posts.usuario_id
+WHERE posts.usuario_id IS NULL;
+
+-- 2º EJ / Muestrame todos user que no tengan posts
+SELECT *
+FROM usuarios
+RIGHT JOIN posts on usuarios.id = posts.usuario_id
+WHERE posts.usuario_id IS NULL;
+
+
+/*
+Ejercicios de
+Tipos de JOINS:
+
+de Intersección, 
+	INNER JOIN
+    OUTER JOIN
+    
+de Unión 
+	UNION
+    
+de Diferencia simétrica
+	Se realiza con el WHERE, ES LO CONTRARIO AL INNER JOIN
+
+*/
+
+-- 3º EJ /  Muestra el conjunto de datos en donde los user y posts este relacionados. Que ambos tenga relación.
+SELECT *
+FROM usuarios
+INNER JOIN posts on usuarios.id = posts.usuario_id;
+
+-- 4º EJ /  Muestra todo de las dos tablas. Sentencia UNION / conjunto universo.
+SELECT *
+FROM usuarios U 
+	LEFT JOIN posts P on U.id = P.usuario_id
+UNION
+SELECT *
+FROM usuarios U 
+	RIGHT JOIN posts P on U.id = P.usuario_id;    
+
+
+-- 5º EJ /  Diferencias Simétrica. Usando el WHERE estamos haciendo lo contrario al INNER JOIN
+-- Muestra los user que no hayan hecho un post y los post que no tenga un user.
+SELECT *
+FROM usuarios U 
+	LEFT JOIN posts P on U.id = P.usuario_id
+WHERE posts.usuario_id IS NULL
+UNION
+SELECT *
+FROM usuarios U 
+	RIGHT JOIN posts P on U.id = P.usuario_id
+WHERE posts.usuario_id IS NULL;
+
+
+-- 6º EJ EXTRA PROPIO. Hacer un join entre usuarios, posts y categorias, 
+-- mostrando justamente el nombre del usuario que escribió tal post `es decir el titulo del post` y que categoría tiene ese mismos post. 
+-- Ordenarlo el resultado por autor.
+
+SELECT usuarios.nickname as Autor, posts.titulo AS Título, categorias.nombre AS Categoría
+FROM	usuarios
+	JOIN posts ON usuarios.id = posts.usuario_id
+    JOIN categorias ON posts.categoria_id = categorias.id
+ORDER BY Autor DESC; 
+	
