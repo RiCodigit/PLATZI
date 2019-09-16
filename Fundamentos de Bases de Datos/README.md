@@ -313,6 +313,12 @@ https://imgur.com/a/TwLRWqL
 
 ### Clase  32 | [WHERE](https://platzi.com/clases/1566-bd/19821-where/ "")  |  14:00 min
 
+**WHERE**  es la sentencia que nos ayuda a filtrar tuplas o registros dependiendo de las características que elegimos.
+
+-   La propiedad  **LIKE**  nos ayuda a traer registros de los cuales conocemos sólo una parte de la información.
+-   La propiedad  **BETWEEN**  nos sirve para arrojar registros que estén en el medio de dos. Por ejemplo los registros con id entre 20 y 30.
+
+- Funciones de **Fecha y hora** YEAR(fecha), MONTH(Fecha).. para filtrar por año , mes..
 
 
 ### Clase  33 |  [Utilizando la sentencia WHERE nulo y no nulo](https://platzi.com/clases/1566-bd/19822-utilizando-la-sentencia-where-nulo-y-no-nulo/ "") |  10:00 min

@@ -665,4 +665,66 @@ FROM	usuarios
 	JOIN posts ON usuarios.id = posts.usuario_id
     JOIN categorias ON posts.categoria_id = categorias.id
 ORDER BY Autor DESC; 
-	
+
+
+/*
+
+Clase 32: WHERE
+
+Esta sentencia nos ayuda a filtrar los datos entre otros.
+
+*/
+
+-- 1º Ej : Muestra todos los posts con un id menor e igual a 50.
+
+SELECT *
+FROM posts
+WHERE id<=50;
+
+-- 2º Ej : Muestra todos los posts con el estatus activo. 
+
+SELECT *
+FROM posts
+WHERE estatus="activo";
+
+-- 3º Ej : Muestra todos los posts con el estatus inactivo. / Haciendo uso de not
+
+SELECT *
+FROM posts
+WHERE estatus!="activo"; -- como solo hay dos valores en esta variable podemos usar Not para pedir los estatus inactivos.
+
+
+-- Sentencia LIKE
+
+-- 4º Ej : Muestra todos los posts que contengan la palabra 'escandalo' en su titulo.
+
+SELECT *
+FROM posts
+WHERE titulo LIKE '%escandalo%';
+
+-- FECHAS
+
+-- 5º Ej : Muestra todos los posts que hayan sido publicados despues del 2025-01-01.
+SELECT *
+FROM posts
+WHERE fecha_publicacion > '2025-01-01';
+
+
+-- BETWEEN
+
+-- 5º Ej : Muestra todos los posts que hayan sido publicados ENTRE 2023-01-01 Y EL  2025-12-31 .
+SELECT *
+FROM posts
+WHERE fecha_publicacion BETWEEN '2023-01-01' AND '2025-12-31';
+
+-- 6º Ej : Muestra todos los posts que hayan sido publicados ENTRE 2023 EL Y 2024 .
+SELECT *
+FROM posts
+WHERE YEAR(fecha_publicacion) BETWEEN '2023' AND '2024';
+
+-- 7º Ej : Muestra todos los posts que hayan sido publicados EN ABRIL .
+SELECT *
+FROM posts
+WHERE MONTH(fecha_publicacion) = '04';
+
+-- RECORDAR: Ponemos 04 entre comillas porque el dato es una varchar, en cambio para el id ponemos simplemente el numero por ser un int.
