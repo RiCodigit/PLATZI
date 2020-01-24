@@ -2,46 +2,63 @@
 # Fundamentos de JavaScript
 
   
-  
-  
-  
-  
-
 ## 1. Introducción al curso
 
   
-  
-  
-
 ### Clase 1 | [Bienvenidos al Curso de Fundamentos de JavaScript](https://platzi.com/clases/1339-fundamentos-javascript/21791-bienvenidos-al-curso-de-fundamentos-de-javascript/ "") | 2:00 min
 
-  
+  A lo largo del curso aprenderemos las bases sólidas para dominar el lenguaje JavaScript. Veremos desde lo más básico como: variables, tipos de datos y operadores, e iremos avanzando con los condicionales y las estructuras de control. Luego veremos los conceptos relacionados con asincronismo, uno de los aspectos fundamentales de JavaScript, usando callbacks, promesas y async await. Y finalmente crearemos un juego de Simón dice en el que pondremos en práctica todo lo aprendido.
   
   
 
 ### Clase 2 | [Repositorio del curso](https://platzi.com/clases/1339-fundamentos-javascript/13271-repositorio-del-curso/ "") | 1:00 min
 
   
-  
+  Bienvenidos de nuevo al curso.
+
+En este material van a encontrar el enlace directo al repositorio que el profesor va a estar mencionando y utilizando a lo largo de todo el curso.
+
+Están todos los archivos de los que se hará mención. En caso de que tengan alguna duda, usen el sistema de discusiones y estaremos respondiendo a la brevedad.
+
+[https://github.com/platzi/FundamentosJSCurso](https://github.com/platzi/FundamentosJSCurso)
+
+Recuerden compartir sus proyectos con la comunidad.
+
+¡Comencemos!
   
   
 
 ## 2. Primeros pasos en JavaScript
 
   
-  
-  
-
 ### Clase 3 | [Variables](https://platzi.com/clases/1339-fundamentos-javascript/12886-variables/ "") | 14:00 min
 
   
-  
+  En este curso utilizaremos la consola de Google Chrome y el editor de texto Atom. También, crearemos una carpeta llamada fundamentos_js.
+
+Para crear un archivo independiente del html utiliza la etiqueta
   
 
 ### Clase 4 | [Variables: Strings](https://platzi.com/clases/1339-fundamentos-javascript/12887-variables-strin-3/ "") | 10:00 min
 
+
+Los strings son cadenas de texto. Para indicar que estamos usando una cadena de texto debemos de colocar las comillas simples.
+
+En este curso utilizaremos los métodos:
+
+-   toUpperCase, que sirve para transformar un String a mayúsculas.
+-   toLowerCase, que sirve para transformar el string a minúsculas.
+
+También usaremos el atributo:
+
+-   length, que nos indica la cantidad de caractéres que tiene un string.
+
+Para concatenar dos strings se utiliza el símbolo (+)  
+var nombreCompleto = nombre + ’ ’ + apellido
+
+**Desafío:**  Encuentra la última letra de su nombre  
   
-  
+
 
 ### Clase 5 | [Variables: Números](https://platzi.com/clases/1339-fundamentos-javascript/12888-variables-numer-8/ "") | 11:00 min
 
