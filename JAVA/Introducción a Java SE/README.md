@@ -54,27 +54,87 @@ El IDE recomendado por Oracle es NetBeans, pero también están Eclipse e Intell
  
 ### Clase 4 | Creando un entorno de desarrollo en Java en Windows | 07:04 min
 
+ Instalamos y configuramos Intellij IDEA y los JDKs.
  
- 
-### Clase 5 | Creando un entorno de desarrollo en Java en Mac | 
+ ---
+#### Clase 5 | Creando un entorno de desarrollo en Java en Mac | 
 
-
-
-### Clase 6 | Creando un entorno de desarrollo en Java en Linux | 
-
-
+#### Clase 6 | Creando un entorno de desarrollo en Java en Linux | 
+---
 
 
 ### Clase 7 |Escribe tu primer Hola Mundo en Java |  09:04 min
+
+Los archivos de Java usan la extensión  **`.java`**. Por lo tanto, para crear nuestro primer “Hola, mundo” podemos hacerlo desde un archivo  `HolaMundo.java`.
+
+El método  **main**  es el punto de entrada de una aplicación en diferentes lenguajes como Java,  [Kotlin](https://platzi.com/clases/kotlin/)  y  [C++](https://platzi.com/clases/c-plus-plus/). Sin este método nuestra aplicación no se ejecutará y mostrará un error.
+
+En Java definimos este método de la siguiente manera:
+
+```java
+public static void main (String[] args) {
+  // acciones
+}
+
+```
+
+Por lo tanto, este será el código de nuestro  `HolaMundo.java`  y podremos ejecutarlo con  `Click derecho > Run 'HolaMundo.main()'`:
+
+```java
+public class HolaMundo {
+  public static void main (String[] args) {
+    System.out.println("Hola, mundo!");
+  }
+}
+
+```
+
+Recuerda que nuestro IDE nos proporciona algunos atajos. Por ejemplo, con solo escribir la palabra  `sout`  podremos autocompletar la sentencia  `System.out.println();`.
 
 
 
 ### Clase 8 |Etapas de la programación en Java |   07:59 min
 
+1.  Escribir nuestros archivos  `.java`.
+2.  Compilar, cargar y verificar nuestros archivos con  `javac`  (los IDEs nos permiten compilar con solo presionar un botón).
+3.  Al compilar obtenemos archivos  `.class`  con código que nuestras computadoras pueden entender (_Byte Code_).
+4.  La JVM (_Java Virtual Machine_) se encarga de ejecutar el código de forma que funcione en cualquier dispositivo o sistema operativo.
 
+Java es un lenguaje compilado e interpretado al mismo tiempo.
+
+[Etapas de programación en Java](https://imgur.com/a/eCJxc3R)
 
 ### Clase 9 | La JShell de Java |   
 
+Sabías que Java tiene una herramienta interactiva en dónde puedes ir probando segmentos de código en vez de realizar todo el proceso de creación de un programa en Java. Escribir, compilar y correr.
+
+Su nombre es  `jshell`  y está disponible desde la versión 9 de Java.
+
+Abre tu consola de comandos o terminal, corre el siguiente comando:
+
+```
+$ java -version
+
+```
+
+**Ejercicio 1.**
+
+Investiga cómo cambiar la versión de Java desde tu consola de comandos o terminal y compártenos en la sección de discusiones los comandos que ejecutaste.
+
+**Ejercicio 2.**
+
+Asegurate de tener definida una versión superior a la 8.  
+Ahora desde tu terminal escribe el siguiente comando para abrir nuestra  `jshell`
+
+```
+$ jshell
+
+```
+
+![Screen Shot 2019-07-24 at 5.04.52 PM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-07-24%20at%205.04.52%20PM-7d3ad1c3-da34-4126-a838-d04ab2c01038.jpg)
+
+2.  Ahora escribe la línea de código para imprimir un texto (no olvides poner ; y dar enter).  
+    Compártenos tus resultados en la sección de discusiones.
 
 
 ## 2. Trabajar con Variables en Java
