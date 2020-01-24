@@ -142,10 +142,60 @@ $ jshell
   
 ### Clase 10 | Variables en JAVA |
 
+Una variable es un espacio de memoria (RAM) que contiene un dato de tipo numérico, booleano, de texto u otros tipos de datos un poco más complejos.
+
+Las variables en Java se componen de un nombre único y un valor que puede cambiar a lo largo de la ejecución del programa. Al declarar las variables debemos definir el tipo de dato que vamos a usar y un punto y coma al final:
+
+```java
+// Variables.java
+
+public class Variables {
+  public static void main(String[] args) {
+    // Declarar la variable speed de tipo int (números enteros)
+    int spped;
+
+    // Actualizar el contenido de la variable speed:
+    spped = 10; // si ya habías declarado la variable
+
+    // Declarar una variable y asignarle un valor al mismo tiempo:
+    int salary = 1000;
+
+    // Crear una variable de tipo String:
+    String eployeeName = "Anahí Salgado";
+  }
+}
+
+```
+
 
 ### Clase 12 | Actualizando Variables |  
 
+Java nos permite actualizar nuestras variables reutilizando los valores que tenían anteriormente, de esta forma evitamos errores o inconsistencias en nuestro código:
 
+```java
+public class UpdatingVariable {
+  public static void main(String[] args) {
+    // Actualizar datos numéricos:
+    int salary = 1000;
+    salary = salary + 200;
+    System.out.println(salary); // 1200
+
+    salary += 300;
+    System.out.println(salary); // 1500
+
+    // Actualizar variables de tipo String:
+    String employeeName = "Anahí";
+    employeeName = employeeName + "Salgado";
+    System.out.println(salary); // Anahí Salgado
+
+    employeeName += "Díaz de la Vega";
+    System.out.println(employeeName); // Anahí Salgado Díaz de la Vega
+
+    employeeName = "Irene" + employeeName;
+    System.out.println(employeeName); // Irene Anahí Salgado Díaz de la Vega
+  }
+}
+```
 
 ### Clase 13 | Convención de Nombres en Java | 
 
