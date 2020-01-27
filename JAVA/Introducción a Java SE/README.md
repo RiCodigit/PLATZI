@@ -168,7 +168,7 @@ public class Variables {
 ```
 
 
-### Clase 12 | Actualizando Variables |  
+### Clase 11 | Actualizando Variables |  
 
 Java nos permite actualizar nuestras variables reutilizando los valores que tenían anteriormente, de esta forma evitamos errores o inconsistencias en nuestro código:
 
@@ -197,31 +197,53 @@ public class UpdatingVariable {
 }
 ```
 
-### Clase 13 | Convención de Nombres en Java | 
+### Clase 12 | Convención de Nombres en Java | 
 
+Convención de Nombres en Java
 
+Una convención de nombres es un patrón que deben seguir los nombres de las variables para que el código esté organizado, entendible y sin repetidos.
+
+-   Java es sensible a mayúsculas y minúsculas, este punto es clave al seguir una convención.
+    
+-   Las variables siempre deben comenzar con un simbolo de letra,  `$`  o  `_`.
+    
+-   No puedes usar el simbolo  `-`  en ninguna parte de la variable.
+    
+
+Las variables constantes son variables cuyo valor nunca va a cambiar, por lo que se deben escribir completamente en mayúsculas y usando el caracter  `_`.
  
-### Clase 14 | Técnica de Naming; Carmei Case | 
+### Clase 13 | Técnica de Naming; Carmei Case | 
 
+ Camel Case es una convención muy popular para nombrar nuestras variables. Podemos usarlo en modo  _Upper Camel Case_  o  _Lower Camel Case_, la diferencia es si comenzamos el nombre de la variable con mayúscula o minúscula.
+
+```java
+// Upper Camel Case:
+class SoyUnaClase {};
+
+// Lower Camel Case
+int soyUnNumeroInt = 10;
+
+```
+
+Debemos usar  _Upper Camel Case_  en los nombres de las clases y archivos. Y  _Lower Camel Case_  en los nombres de las variables o métodos.
  
- 
-### Clase 15 | Tipos de Datos Numéricos | 
+### Clase 14 | Tipos de Datos Numéricos | 
 
 
 
-### Clase 16 | Operadores de Asignación, Incremento y Decremento | 
+### Clase 15 | Operadores de Asignación, Incremento y Decremento | 
 
 
-### Clase 17 | Operaciones Matemáticas | 
+### Clase 16 | Operaciones Matemáticas | 
 
 
-### Clase 18 | Cast en Variables: Estimación y Exactitud | 
+### Clase 17 | Cast en Variables: Estimación y Exactitud | 
 
 
-### Clase 19 | Casteo entre tipos de datos | 
+### Clase 18 | Casteo entre tipos de datos | 
 
 
-### Clase 20 | Archivos .JAR | 
+### Clase 19 | Archivos .JAR | 
 
 
-### Clase 21 | A Practicar | 
+### Clase 20 | A Practicar | 

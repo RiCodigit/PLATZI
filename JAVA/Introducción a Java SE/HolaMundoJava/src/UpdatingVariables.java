@@ -25,7 +25,7 @@ public class UpdatingVariables {
 
         System.out.println(empleadoName);
 
-        empleadoName = "J" + empleadoName;
+        empleadoName =  "J" + empleadoName;
 
         System.out.println(empleadoName);
 
