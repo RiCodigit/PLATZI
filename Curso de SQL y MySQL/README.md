@@ -166,10 +166,23 @@ Una base de datos nos permite almacenar datos y relaciones entre datos, para que
 
 
 
-### Clase 5  |  | 
-
-
-
-
-
 ## 2. CREATE
+
+
+
+### Clase 5  | [Comando CREATE](https://platzi.com/clases/1272-sql-mysql/11089-comando-create/)  | 
+
+[InnoDB y MyISAM: El ying yang de MySQL](https://platzi.com/tutoriales/1272-sql-mysql/4484-innodb-y-myisam-el-ying-yang-de-mysql/)
+
+**Tipos de tablas de Bases de datos** por defecto en MySQL:  
+
+•**MyISAM:**  directa, sencilla, más rápida y las transacciones son completamente uno a uno:  
+•**InnoDB:**  nueva, recuperable en caso de falla de disco duro pero es un poco más lenta.
+
+
+En la vida real **usamos las tablas con dos propósitos**:  
+
+•**Catalogo:**  crecerá en un orden lento, según las necesidades de la propia BD. (Listado de Usuarios, InnoDB)  
+•**Operación:**  se enfocan a lectura, mayor acceso a disco duro. (Prestamos de libros, MyISAM).
+
+[https://www.webreunidos.es/blog/myisam-vs-innodb/](https://www.webreunidos.es/blog/myisam-vs-innodb/)
